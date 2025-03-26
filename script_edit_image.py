@@ -55,6 +55,7 @@ def gen_edit_image(prompt):
         elif part.inline_data is not None:
             image = Image.open(BytesIO((part.inline_data.data)))
             image.save('gemini-native-image.png')
+            #TODO: 保存图片接口
             image.show()
 
 if __name__ == "__main__":
