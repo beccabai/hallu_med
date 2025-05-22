@@ -1,0 +1,422 @@
+[
+    {
+      "image_name": "/path/to/MMVP Images/1.jpg",
+      "edited_image_name": "/path/to/MMVP Images/2.jpg",
+      "options": [
+        "A. The butterfly has its wings fully open in the first image, but closed in the second.",
+        "B. The butterfly has its wings closed in the first image, but fully open in the second.",
+        "C. The butterfly has its wings partially open in both images.",
+        "D. The butterfly has its wings folded downward in both images."
+      ],
+      "answer": "A",
+      "question": "What's the most significant contrast between these two photos?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/3.jpg",
+      "edited_image_name": "/path/to/MMVP Images/4.jpg",
+      "options": [
+        "A. The first image shows a matchstick with a short, rounded flame, while the second has a tall, elongated flame.",
+        "B. The first image shows a candle, while the second shows a flashlight.",
+        "C. Both images show matchsticks with identical flame shapes.",
+        "D. The first image shows an extinguished match, while the second shows a burning candle."
+      ],
+      "answer": "A",
+      "question": "What is the primary difference between the two images?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/5.jpg",
+      "edited_image_name": "/path/to/MMVP Images/6.jpg",
+      "options": [
+        "A. The dog is lying down in the first image, but standing in the second.",
+        "B. The dog is sitting in both images in the same position.",
+        "C. The dog is standing with one front leg lifted in the first image, but sitting in the second.",
+        "D. The dog is jumping in the first image, but sleeping in the second."
+      ],
+      "answer": "C",
+      "question": "What's the most significant contrast between these two photos?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/7.jpg",
+      "edited_image_name": "/path/to/MMVP Images/8.jpg",
+      "options": [
+        "A. The first image shows the back of a school bus, while the second shows the front.",
+        "B. Both images show the side of the same school bus from different angles.",
+        "C. The first image shows the front of a school bus, while the second shows the back.",
+        "D. Both images show two different types of city buses."
+      ],
+      "answer": "C",
+      "question": "How do these two images primarily differ from each other?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/9.jpg",
+      "edited_image_name": "/path/to/MMVP Images/10.jpg",
+      "options": [
+        "A. The first image shows a keyboard with number keys, while the second shows only arrow keys.",
+        "B. The first image shows a white keyboard with function keys, while the second shows a black keyboard with letter keys.",
+        "C. Both images show the exact same keyboard model in different lighting.",
+        "D. The first image shows a black keyboard with letter keys, while the second shows a white keyboard with number and function keys."
+      ],
+      "answer": "D",
+      "question": "How do these two images primarily differ from each other?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/11.jpg",
+      "edited_image_name": "/path/to/MMVP Images/12.jpg",
+      "options": [
+        "A. The peacock in the first image is flying, while the one in the second is sleeping.",
+        "B. The peacock in the first image is displaying its feathers upright, while the one in the second is bending down to the ground.",
+        "C. The peacock in the first image is walking, while the one in the second is running.",
+        "D. The peacock in both images is standing in the same pose but in different lighting."
+      ],
+      "answer": "B",
+      "question": "What's the key difference between these two pictures?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/13.jpg",
+      "edited_image_name": "/path/to/MMVP Images/14.jpg",
+      "options": [
+        "A. The first image shows a peeled banana, while the second shows corn on the cob.",
+        "B. The first image shows corn with silk strands, while the second shows corn with yellow and white kernels and no silk.",
+        "C. The first image shows cooked corn, while the second shows raw corn.",
+        "D. Both images show the same corn from different zoom levels."
+      ],
+      "answer": "B",
+      "question": "What is the fundamental difference you can see between these two visuals?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/15.jpg",
+      "edited_image_name": "/path/to/MMVP Images/16.jpg",
+      "options": [
+        "A. The flower in the first image is red, while the one in the second is blue.",
+        "B. The flower in the first image has a bright yellow center, while the one in the second has a dark brown center.",
+        "C. The flower in the first image has more petals and a darker orange center, while the one in the second has fewer petals and a brighter yellow center.",
+        "D. Both flowers are identical in color, shape, and petal count."
+      ],
+      "answer": "C",
+      "question": "What is the primary difference between the two images?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/17.jpg",
+      "edited_image_name": "/path/to/MMVP Images/18.jpg",
+      "options": [
+        "A. The first image shows a longer and more modern school bus than the second.",
+        "B. The first image shows a school bus with a flat front and rounded top, while the second shows a longer bus with a squared-off front.",
+        "C. Both images show the exact same school bus from opposite sides.",
+        "D. The second image shows a van, while the first shows a double-decker bus."
+      ],
+      "answer": "B",
+      "question": "What distinguishes one image from the other?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/19.jpg",
+      "edited_image_name": "/path/to/MMVP Images/20.jpg",
+      "options": [
+        "A. The first image shows a shark's tail, while the second shows a shark's dorsal fin.",
+        "B. The first image shows a shark leaping out of the water, while the second shows a dolphin underwater.",
+        "C. The first image shows a full-body side view of a shark, while the second shows a close-up of the shark’s head.",
+        "D. Both images show the exact same shark from the same distance and angle."
+      ],
+      "answer": "C",
+      "question": "What is the primary difference between the two images?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/21.jpg",
+      "edited_image_name": "/path/to/MMVP Images/22.jpg",
+      "options": [
+        "A. The second image shows a female duck, while the first image shows a male duck.",
+        "B. The second image shows the duck in flight, while the first shows it swimming.",
+        "C. The second image shows a different species of waterfowl, while the first is a mallard.",
+        "D. The second image shows a mallard duck with missing feathers and patchy plumage, while the first image shows a duck with smooth and well-groomed feathers."
+      ],
+      "answer": "D",
+      "question": "Can you identify the principal disparity between these two images?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/23.jpg",
+      "edited_image_name": "/path/to/MMVP Images/24.jpg",
+      "options": [
+        "A. The second image shows a snake in a more humid environment, while the first is in a dry one.",
+        "B. The second image shows a younger snake with smoother scales, while the first shows an older snake with rougher skin.",
+        "C. The second image shows the snake with a slightly more curved body posture, while the first shows it stretched straight.",
+        "D. The second image shows a green snake in brighter, cooler lighting, while the first image shows the same snake species in dimmer, warmer lighting."
+      ],
+      "answer": "D",
+      "question": "What is the main distinction between these two images?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/25.jpg",
+      "edited_image_name": "/path/to/MMVP Images/26.jpg",
+      "options": [
+        "A. The second image shows a snake in a more humid environment, while the first is in a dry one.",
+        "B. The second image shows a younger snake with smoother scales, while the first shows an older snake with rougher skin.",
+        "C. The second image shows the snake with a slightly more curved body posture, while the first shows it stretched straight.",
+        "D. The second image shows a green snake in brighter, cooler lighting, while the first image shows the same snake species in dimmer, warmer lighting."
+      ],
+      "answer": "D",
+      "question": "What's the key difference between these two pictures?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/27.jpg",
+      "edited_image_name": "/path/to/MMVP Images/28.jpg",
+      "options": [
+        "A. The second image shows a snake in a more humid environment, while the first is in a dry one.",
+        "B. The second image shows a younger snake with smoother scales, while the first shows an older snake with rougher skin.",
+        "C. The second image shows the snake with a slightly more curved body posture, while the first shows it stretched straight.",
+        "D. The second image shows a green snake in brighter, cooler lighting, while the first image shows the same snake species in dimmer, warmer lighting."
+      ],
+      "answer": "D",
+      "question": "Can you identify the principal disparity between these two images?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/31.jpg",
+      "edited_image_name": "/path/to/MMVP Images/32.jpg",
+      "options": [
+        "A. The first image shows a larger version of the American flag, while the second shows a miniature version.",
+        "B. The first image shows a historical version of the flag, while the second shows the current official design.",
+        "C. The first image shows the flag taken indoors, while the second image was taken outside.",
+        "D. The first image shows the American flag fully extended and waving horizontally, while the second image shows the flag hanging more vertically with visible folds."
+      ],
+      "answer": "D",
+      "question": "What's the most notable variation between these two pictures?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/33.jpg",
+      "edited_image_name": "/path/to/MMVP Images/34.jpg",
+      "options": [
+        "A. The first image shows a male butterfly, while the second image shows a female.",
+        "B. The first image shows a butterfly with its wings fully open, while the second image shows the same butterfly with its wings closed in a side view.",
+        "C. The first image was taken in early morning light, while the second was captured at sunset.",
+        "D. The first image shows a monarch butterfly, while the second shows a viceroy butterfly."
+      ],
+      "answer": "B",
+      "question": "What's the most significant contrast between these two photos?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/35.jpg",
+      "edited_image_name": "/path/to/MMVP Images/36.jpg",
+      "options": [
+        "A. The first image shows pickles, while the second shows zucchinis.",
+        "B. The first image shows peeled cucumbers, while the second shows unpeeled ones.",
+        "C. The first image shows overripe cucumbers, while the second shows fresh ones.",
+        "D. The first image shows dark green cucumbers with a bumpy texture and water droplets, while the second image shows lighter green cucumbers with a smoother, more yellowish surface."
+      ],
+      "answer": "D",
+      "question": "What's the most notable variation between these two pictures?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/37.jpg",
+      "edited_image_name": "/path/to/MMVP Images/38.jpg",
+      "options": [
+        "A. The first image shows a male butterfly on a flower, while the second shows a female butterfly on another flower.",
+        "B. The first image shows a butterfly in morning sunlight, while the second shows it in late afternoon light.",
+        "C. The first image shows a butterfly with torn wings, while the second shows a butterfly with smooth wings.",
+        "D. The first image shows a monarch butterfly on pink flowers with green leaves, while the second shows one on purple flowers with a blurred yellow background."
+      ],
+      "answer": "D",
+      "question": "What is the fundamental difference you can see between these two visuals?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/39.jpg",
+      "edited_image_name": "/path/to/MMVP Images/40.jpg",
+      "options": [
+        "A. The first image shows a duck flapping its wings, while the second shows a duck resting its wings.",
+        "B. The first image shows a duck under cloudy weather, while the second shows a duck under bright sunlight.",
+        "C. The first image shows a female duck with dark feathers, while the second shows a male duck with light feathers.",
+        "D. The first image shows a duck swimming in the water, while the second shows a duck standing on a rock."
+      ],
+      "answer": "D",
+      "question": "What is the fundamental difference you can see between these two visuals?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/41.jpg",
+      "edited_image_name": "/path/to/MMVP Images/42.jpg",
+      "options": [
+        "A. The first image shows a spider hanging upside down, while the second shows it climbing upward.",
+        "B. The first image shows a spider in a broken web, while the second shows a spider in a fresh web.",
+        "C. The first image shows a male spider at night, while the second shows a female spider at dawn.",
+        "D. The first image shows a spider with a light brown body and thick legs, while the second shows a spider with a striped body and thin orange legs."
+      ],
+      "answer": "D",
+      "question": "What is the main distinction between these two images?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/45.jpg",
+      "edited_image_name": "/path/to/MMVP Images/46.jpg",
+      "options": [
+        "A. The first image shows a shark swimming upwards, while the second shows a shark diving downwards.",
+        "B. The first image shows a hammerhead shark, while the second shows a tiger shark in motion.",
+        "C. The first image shows a shark in a coral reef, while the second shows it in open water near the surface.",
+        "D. The first image shows a shark with brighter lighting and clearer detail, while the second shows a shark in darker lighting with a blue tint."
+      ],
+      "answer": "D",
+      "question": "What is the primary difference between the two images?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/47.jpg",
+      "edited_image_name": "/path/to/MMVP Images/48.jpg",
+      "options": [
+        "A. The first image shows a butterfly with closed wings on a flower, while the second shows one with open wings on a leaf.",
+        "B. The first image shows a moth resting on a stem, while the second shows a moth feeding on nectar.",
+        "C. The first image shows a butterfly in the morning shade, while the second shows a butterfly at sunset light.",
+        "D. The first image shows a butterfly with dark brown wings and dim lighting, while the second shows a butterfly with light brown wings and bright lighting."
+      ],
+      "answer": "D",
+      "question": "What's the key difference between these two pictures?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/49.jpg",
+      "edited_image_name": "/path/to/MMVP Images/50.jpg",
+      "options": [
+        "A. The first image shows a wireless keyboard in daylight, while the second shows a wired keyboard in the evening.",
+        "B. The first image shows a keyboard with backlight turned off, while the second shows a keyboard with backlight on.",
+        "C. The first image shows a compact keyboard layout, while the second shows a full-sized keyboard layout.",
+        "D. The first image shows a white keyboard with flat keycaps in soft lighting, while the second shows a black keyboard with sculpted keycaps in warm lighting."
+      ],
+      "answer": "D",
+      "question": "What's the most significant contrast between these two photos?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/51.jpg",
+      "edited_image_name": "/path/to/MMVP Images/52.jpg",
+      "options": [
+        "A. The first image shows an elephant in rainy weather, while the second shows an elephant in sunny weather.",
+        "B. The first image shows a baby elephant feeding, while the second shows an adult elephant drinking.",
+        "C. The first image shows an elephant with long tusks, while the second shows one with no tusks visible.",
+        "D. The first image shows a close-up of an elephant among dry bushes, while the second shows a full-body view of an elephant walking in green grass."
+      ],
+      "answer": "D",
+      "question": "What is the main distinction between these two images?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/53.jpg",
+      "edited_image_name": "/path/to/MMVP Images/54.jpg",
+      "options": [
+        "A. The first image shows pills inside a bottle, while the second shows pills arranged in a blister pack.",
+        "B. The first image shows herbal medicine for sleep, while the second shows vitamins for energy.",
+        "C. The first image shows capsules for children, while the second shows tablets for adults.",
+        "D. The first image shows white round tablets spilled from a bottle on a white surface, while the second shows colorful capsules and gel pills on a dark blue surface."
+      ],
+      "answer": "D",
+      "question": "What is the main distinction between these two images?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/55.jpg",
+      "edited_image_name": "/path/to/MMVP Images/56.jpg",
+      "options": [
+        "A. The second image shows the bananas on a tree, while the first image shows them on a table.",
+        "B. The second image shows a bunch of green bananas, while the first image shows a bunch of ripe yellow bananas.",
+        "C. The second image is a close-up of bananas, while the first image shows the bananas from a wider perspective.",
+        "D. The second image shows bananas under artificial lighting, while the first image shows them under natural light."
+      ],
+      "answer": "C",
+      "question": "What is the main distinction between these two images?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/57.jpg",
+      "edited_image_name": "/path/to/MMVP Images/58.jpg",
+      "options": [
+        "A. The second image shows a crocodile in a river, while the first image shows it sleeping on a rock.",
+        "B. The second image shows an alligator from above, while the first image shows it from directly in front.",
+        "C. The second image shows the full body of the alligator on land, while the first image shows only its head partially submerged in water.",
+        "D. The second image shows the alligator underwater, while the first image shows it walking on grass."
+      ],
+      "answer": "C",
+      "question": "What is the fundamental difference you can see between these two visuals?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/59.jpg",
+      "edited_image_name": "/path/to/MMVP Images/60.jpg",
+      "options": [
+        "A. The second image shows a lock securing a chain to a gate, while the first image shows a lock securing a chain to a post.",
+        "B. The second image shows a lock on a wire mesh fence, while the first image shows a lock on a solid wooden board.",
+        "C. The second image shows a lock holding two fences together, while the first image shows a lock hanging loosely without securing anything.",
+        "D. The second image shows a lock securing a metal pole with a chain, while the first image shows a lock securing a wire fence grid directly."
+      ],
+      "answer": "D",
+      "question": "What's the most notable variation between these two pictures?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/61.jpg",
+      "edited_image_name": "/path/to/MMVP Images/62.jpg",
+      "options": [
+        "A. The second image shows a keyboard with square keys, while the first image shows a keyboard with circular keys.",
+        "B. The second image shows a keyboard with extra symbols, while the first image shows only letters.",
+        "C. The second image shows a wireless keyboard, while the first image shows a mechanical gaming keyboard.",
+        "D. The second image shows a keyboard with uniform keys in blue lighting, while the first image shows a keyboard with worn and damaged keys under neutral lighting."
+      ],
+      "answer": "D",
+      "question": "Can you identify the principal disparity between these two images?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/63.jpg",
+      "edited_image_name": "/path/to/MMVP Images/64.jpg",
+      "options": [
+        "A. The first image shows daisies blooming in sunlight, while the second image shows them blooming under artificial light.",
+        "B. The first image shows only closed buds, while the second image shows fully opened daisy petals.",
+        "C. The first image shows a group of daisies with yellow centers, while the second image shows daisies with white centers.",
+        "D. The first image shows a daisy casting a shadow on another daisy, while the second image shows daisies lit evenly with no shadows falling on each other."
+      ],
+      "answer": "D",
+      "question": "What is the primary difference between the two images?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/65.jpg",
+      "edited_image_name": "/path/to/MMVP Images/66.jpg",
+      "options": [
+        "A. The second image shows a keyboard with blue lighting, while the first image shows a keyboard with red lighting.",
+        "B. The second image shows a keyboard missing the G key, while the first image shows all letter keys present.",
+        "C. The second image shows only number keys, while the first image shows only letter keys.",
+        "D. The second image shows the letter D key clearly, while the first image does not include the letter D key."
+      ],
+      "answer": "D",
+      "question": "What's the key difference between these two pictures?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/67.jpg",
+      "edited_image_name": "/path/to/MMVP Images/68.jpg",
+      "options": [
+        "A. The first image shows a foggy sky, while the second image shows a cloudy sky with heavy overcast.",
+        "B. The first image shows a bright blue sky, while the second image shows a sunset with pink clouds.",
+        "C. The first image shows a sky with airplane trails, while the second image shows a sky with thick gray clouds.",
+        "D. The first image shows clouds in the sky, while the second image has a clear sky with no visible clouds."
+      ],
+      "answer": "D",
+      "question": "How do these two images primarily differ from each other?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/69.jpg",
+      "edited_image_name": "/path/to/MMVP Images/70.jpg",
+      "options": [
+        "A. In the first image, the snake’s tongue is curled upward in the air, while in the second image, it lies flat against the ground.",
+        "B. In the first image, the snake’s mouth is closed, while in the second image, its mouth is wide open.",
+        "C. In the first image, the tongue touches another snake, while in the second image, the tongue is not visible at all.",
+        "D. In the first image, the snake's tongue is sticking out and visibly touching its own skin, while in the second image, the tongue is extended outward without touching the body."
+      ],
+      "answer": "D",
+      "question": "What's the most significant contrast between these two photos?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/71.jpg",
+      "edited_image_name": "/path/to/MMVP Images/72.jpg",
+      "options": [
+        "A. The first image shows a lock with a missing key, while the second image shows a lock with a key inserted.",
+        "B. The first image shows a broken lock, while the second image shows a lock that is fully intact and locked.",
+        "C. The first image shows a lock secured with a chain, while the second image shows a lock embedded in a wall.",
+        "D. The first image shows a lock that is fully locked, while the second image shows a lock that is clearly unlocked."
+      ],
+      "answer": "D",
+      "question": "What's the most significant contrast between these two photos?"
+    },
+    {
+      "image_name": "/path/to/MMVP Images/73.jpg",
+      "edited_image_name": "/path/to/MMVP Images/74.jpg",
+      "options": [
+        "A. Both images show dry ground.",
+        "B. The ground in the first image is dry, while the ground in the second image is wet.",
+        "C. The ground in the first image is wet, while the ground in the second image is dry.",
+        "D. Both images show wet ground."
+      ],
+      "answer": "C",
+      "question": "What is the primary difference between the two images?"
+    }
+]

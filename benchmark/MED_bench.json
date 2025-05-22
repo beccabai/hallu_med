@@ -1,0 +1,2147 @@
+[
+  {
+    "image_name": "images/test_00043.jpg",
+    "edited_image_name": "images/test_00043_edited.jpg",
+    "type": "Negation",
+    "question": "What's the most significant contrast between these two photos?",
+    "options": [
+      "A. In the second image, the reflections and cracks in the stop sign that are seen in the first image are completely absent.  ",
+      "B. In the second image, the ice sickles and shadows on the stop sign that are present in the first image are not mentioned.  ",
+      "C. In the second image, the ice sickles and reflections in the stop sign that are present in the first image are not mentioned.",
+      "D. In the second image, the ice sickles and lighting angles hitting the stop sign that appear in the first image are not described.  "
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/test_00360.jpg",
+    "edited_image_name": "images/test_00360_edited.jpg",
+    "type": "Scene",
+    "question": "What is the fundamental difference you can see between these two visuals?",
+    "options": [
+      "A. In the second image, there is tree trunk visible, and the left side shows part of a house with dark siding and two small windows instead of a tree trunk.",
+      "B. In the second image, there is tree trunk visible, and the left side shows part of a house with light siding and a door instead of a tree trunk.",
+      "C. In the second image, there is no tree trunk visible, and the left side shows part of a house with dark siding but no window instead of a tree trunk.",
+      "D. In the second image, there is no tree trunk visible, and the left side shows part of a house with dark siding and a window instead of a tree trunk."
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/test_01483.jpg",
+    "edited_image_name": "images/test_01483_edited.jpg",
+    "type": "Negation",
+    "question": "What is the main distinction between these two images?",
+    "options": [
+      "A. In the second image, the presence of pigeons and birds is less apparent than it is in the first image.  ",
+      "B. In the second image, pigeons and birds visible in the first image have been replaced with different animals.  ",
+      "C. In the second image, the pigeons and birds present in the first image are not mentioned.",
+      "D. In the first image, the pigeons are visible flying while they are grounded in the second image.  "
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/test_01703.jpg",
+    "edited_image_name": "images/test_01703_edited.jpg",
+    "type": "Counting",
+    "question": "What distinguishes one image from the other?",
+    "options": [
+      "A. In the second image, no other peacocks are visible, whereas in the first image, a second peacock is described in the background.  ",
+      "B. In the second image, a second peahen is partially visible in the background, whereas in the first image, the second peahen is completely hidden.  ",
+      "C. In the second image, no other peahens are visible, whereas in the first image, a second peahen is described in the background.",
+      "D. In the second image, no other peahens are visible in the foreground, whereas in the first image, a second peahen is shown in the foreground.  "
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/test_02790.jpg",
+    "edited_image_name": "images/test_02790_edited.jpg",
+    "type": "Action Relation",
+    "question": "What's the most notable variation between these two pictures?",
+    "options": [
+      "A. In the second image, the white cat is looking towards a small bird outside the window, whereas in the first image, it was looking straight ahead towards the room.",
+      "B. In the second image, the white cat is looking towards a small bird outside the window, whereas in the first image, it was looking towards the floor to its right.",
+      "C. In the second image, the white cat is looking towards a small bird outside the window, whereas in the first image, it was looking behind itself towards the left.",
+      "D. In the second image, the white cat is not looking towards a small bird outside the window, whereas in the first image, it was looking behind itself towards the right."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/test_02925.jpg",
+    "edited_image_name": "images/test_02925_edited.jpg",
+    "type": "Object",
+    "question": "How do these two images primarily differ from each other?",
+    "options": [
+      "A. In the second image, a small fish is visible in the water below the stone, whereas this is not mentioned in the first image.",
+      "B. In the second image, a small fish is visible beside the stone in the water, whereas this is not mentioned in the first image.  ",
+      "C. In the second image, a small fish is visible above the stone in the water, whereas this is not mentioned in the first image.  ",
+      "D. In the second image, a small fish is visible near the stone, whereas this is not mentioned in the first image.  "
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/test_03150.jpg",
+    "edited_image_name": "images/test_03150_edited.jpg",
+    "type": "Attribute",
+    "question": "How do these two images primarily differ from each other?",
+    "options": [
+      "A. In the second image, the front license plate has black borders and the text \"123-ABCD,\" whereas in the first image, the license plate has no borders and is blank.  ",
+      "B. In the second image, the front license plate reads \"123-ABCD,\" whereas in the first image, the license plate is blank with black borders.",
+      "C. In the second image, the front license plate reads \"123-ABCD,\" whereas in the first image, the license plate reads \"000-XXXX\" with black borders.  ",
+      "D. In the second image, the front license plate reads \"123-ABCD\" in white text, whereas in the first image, it reads \"123-ABCD\" but in black text with no borders.  "
+    ],
+    "answer": "B"
+  },
+  {
+    "image_name": "images/test_03570.jpg",
+    "edited_image_name": "images/test_03570_edited.jpg",
+    "type": "Negation",
+    "question": "What distinguishes one image from the other?",
+    "options": [
+      "A. In the second image, the gray metal box with straps that was present on the motorcycle in the first image has been removed, but the straps are still visible.",
+      "B. In the second image, the gray metal box with straps that was present on the motorcycle in the first image is no longer there.",
+      "C. In the second image, the gray metal box with straps that was present on the motorcycle in the first image has been replaced with a differently colored box.",
+      "D. In the second image, the gray metal box with straps that was present on the motorcycle in the first image is now attached to a different part of the motorcycle."
+    ],
+    "answer": "B"
+  },
+  {
+    "image_name": "images/2397106.jpg",
+    "edited_image_name": "images/2397106_edit.jpg",
+    "type": "Spatial Relation",
+    "question": "Can you identify the principal disparity between these two images?",
+    "options": [
+      "A. In the second image, the number of urinals visible relative to the window is different compared to the first image.",
+      "B. In the second image, the shape of the window relative to the urinals is different compared to the first image.",
+      "C. In the second image, the size of the window relative to the urinals is different compared to the first image.",
+      "D. In the second image, the position of the window relative to the urinals is different compared to the first image."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/694.jpg",
+    "edited_image_name": "images/694_edit.jpg",
+    "type": "Scene",
+    "question": "What is the primary difference between the two images?",
+    "options": [
+      "A. In the second image, the grass is lush and vibrant, whereas in the first image, the grass is described as unhealthy and not growing well.",
+      "B. In the second image, the grass is lush and vibrant, whereas in the first image, the grass is described as trimmed short and neatly maintained.  ",
+      "C. In the second image, the grass is slightly greener, whereas in the first image, the grass is described as dry but still healthy.  ",
+      "D. In the second image, the grass appears more colorful, whereas in the first image, the grass is described as patchy but thriving.  "
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/test_04737.jpg",
+    "edited_image_name": "images/test_04737_edited.jpg",
+    "type": "Negation",
+    "question": "What is the fundamental difference you can see between these two visuals?",
+    "options": [
+      "A. In the second image, the object on the front and back of the bus's front right tire is no longer present, whereas it is present in the first image.",
+      "B. In the second image, the object on the front of the bus's front right tire remains the same, but the object behind the tire is missing compared to the first image.",
+      "C. In the second image, the object behind the bus's front left tire has been removed, whereas it appears in the first image.  ",
+      "D. In the second image, the object near the middle of the bus's front right tire is no longer present, whereas it is present in the first image.  "
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/train_00961.jpg",
+    "edited_image_name": "images/train_00961_edited.jpg",
+    "type": "Counting",
+    "question": "What is the main distinction between these two images?",
+    "options": [
+      "A. In the second image, the placement of the circular clarifiers differs from the first image.  ",
+      "B. In the second image, the size of the circular clarifiers differs from the first image.  ",
+      "C. In the second image, the number of rectangular clarifiers differs from the first image.  ",
+      "D. In the second image, the number of circular clarifiers differs from the first image."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/train_02077.jpg",
+    "edited_image_name": "images/train_02077_edited.jpg",
+    "type": "Part Relation",
+    "question": "What distinguishes one image from the other?",
+    "options": [
+      "A. In the second image, the fish has a cardboard cutout of a wing facing left, whereas in the first image, the fish does not have this cutout.",
+      "B. In the first image, the fish has a cardboard cutout of a wing facing right, whereas in the second image, the fish does not have this cutout.",
+      "C. In the second image, the fish does not have the cardboard cutout of a fin, whereas in the first image, the fish has this fin cutout.",
+      "D. In the second image, the fish does not have the cardboard cutout of a wing facing left, whereas in the first image, the fish has this cutout."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/train_02703.jpg",
+    "edited_image_name": "images/train_02703_edited.jpg",
+    "type": "Counting",
+    "question": "What is the main distinction between these two images?",
+    "options": [
+      "A. In the second image, the number of sailboats differs, but the number of docks remains the same as in the first image.",
+      "B. In the second image, the number of sailboats and docks differs compared to the first image.",
+      "C. In the second image, the number of sailboats remains the same, but the arrangement of the docks differs compared to the first image.  ",
+      "D. In the second image, the number of sailboats and docks is identical, but their colors differ compared to the first image.  "
+    ],
+    "answer": "B"
+  },
+  {
+    "image_name": "images/train_05560.jpg",
+    "edited_image_name": "images/train_05560_edited_split3.jpg",
+    "type": "Spatial Relation",
+    "question": "What distinguishes one image from the other?",
+    "options": [
+      "A. In the second image, the position of the dog skeleton relative to the background is described differently compared to the first image.",
+      "B. In the second image, the position of the dog skeleton relative to the human skeleton is described differently compared to the first image.",
+      "C. In the second image, the position of the human skeleton relative to the dog skeleton is described differently compared to the first image.",
+      "D. In the second image, the orientation of both the dog skeleton and the human skeleton is described differently compared to the first image."
+    ],
+    "answer": "B"
+  },
+  {
+    "image_name": "images/train_07084.jpg",
+    "edited_image_name": "images/train_07084_edited_split3.jpg",
+    "type": "Attribute",
+    "question": "What is the primary difference between the two images?",
+    "options": [
+      "A. In the second image, the sign's letters are red neon, whereas in the first image, they are blue LED.",
+      "B. In the second image, the sign's letters are blue neon, whereas in the first image, they are red painted text.",
+      "C. In the second image, the sign's letters are blue LED, whereas in the first image, they are red neon.",
+      "D. In the second image, the sign's letters are blue neon, whereas in the first image, they are red LED."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/train_07365.jpg",
+    "edited_image_name": "images/train_07365_edited_split3.jpg",
+    "type": "Negation",
+    "question": "What's the most notable variation between these two pictures?",
+    "options": [
+      "A. In the second image, the silhouette of a small animal near the center of the car's front tire is no longer present, whereas it is seen in the first image.",
+      "B. In the second image, the silhouette of a small animal on the right side of the front tire of the car is no longer present, whereas it is seen in the first image.",
+      "C. In the second image, the silhouette of a small animal on the left side of the front tire of the car is no longer present, whereas it is seen in the first image.",
+      "D. In the second image, the silhouette of a small animal on the right side of the rear tire of the car is no longer present, whereas it is seen in the first image."
+    ],
+    "answer": "B"
+  },
+  {
+    "image_name": "images/train_07695.jpg",
+    "edited_image_name": "images/train_07695_edited_split3.jpg",
+    "type": "Negation",
+    "question": "What is the fundamental difference you can see between these two visuals?",
+    "options": [
+      "A. In the second image, the crane and orange lifts are absent, whereas they were present in the first image.",
+      "B. In the second image, the crane is absent, but the orange lifts are still present, whereas both were present in the first image.",
+      "C. In the second image, the crane and orange lifts have swapped positions compared to their placement in the first image.",
+      "D. In the second image, the crane is still present, but the orange lifts are absent, whereas both were present in the first image."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/train_08893.jpg",
+    "edited_image_name": "images/train_08893_edited_split3.jpg",
+    "type": "Counting",
+    "question": "How do these two images primarily differ from each other?",
+    "options": [
+      "A. In the second image, there are three planes, whereas in the first image, there is only one plane.",
+      "B. In the second image, there are four planes, whereas in the first image, there are three planes.",
+      "C. In the second image, there are only two planes, whereas in the first image, there are three planes.",
+      "D. In the second image, there are three planes, whereas in the first image, there are only two planes."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/train_08983.jpg",
+    "edited_image_name": "images/train_08983_edited_split3.jpg",
+    "type": "Negation",
+    "question": "Can you identify the principal disparity between these two images?",
+    "options": [
+      "A. In the second image, the back wheel of the scooter is not mentioned, whereas in the first image, it is.",
+      "B. In the second image, both wheels of the scooter are not mentioned, whereas in the first image, they are.  ",
+      "C. In the second image, the front wheel of the scooter is not mentioned, whereas in the first image, it is.  ",
+      "D. In the first image, the back wheel of the scooter is not mentioned, whereas in the second image, it is.  "
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/train_09236.jpg",
+    "edited_image_name": "images/train_09236_edited_split3.jpg",
+    "type": "Counting",
+    "question": "What is the primary difference between the two images?",
+    "options": [
+      "A. In the second image, the size of the clouds in the bottom section of the frame is different compared to the first image.",
+      "B. In the second image, the number of clouds in the top section of the frame is different compared to the first image.",
+      "C. In the second image, the number of clouds in the bottom section of the frame is different compared to the first image.",
+      "D. In the second image, the number of clouds in the entire frame is different compared to the first image."
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/1592136.jpg",
+    "edited_image_name": "images/1592136_edit.jpg",
+    "type": "Differentiation",
+    "question": "How do these two images primarily differ from each other?",
+    "options": [
+      "A. In the second image, the curtains are deep red, whereas in the first image, they are sandy cookie-colored.",
+      "B. In the second image, the curtains are rich crimson, whereas in the first image, they are pale sandstone-colored.  ",
+      "C. In the second image, the curtains are deep maroon, whereas in the first image, they are light tan-colored.  ",
+      "D. In the second image, the curtains are burgundy, whereas in the first image, they are cream-colored.  "
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/1592146.jpg",
+    "edited_image_name": "images/1592146_edit.jpg",
+    "type": "Spatial Relation",
+    "question": "What is the primary difference between the two images?",
+    "options": [
+      "A. The buildings in the background are completely different.",
+      "B. The bus in the second image has a different color scheme.",
+      "C. In the second image, the bus is positioned slightly farther away from the railing (shelter) compared to the first image.",
+      "D. There are no passengers on the bus in the second image"
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/train_09642.jpg",
+    "edited_image_name": "images/train_09642_edited_split3.jpg",
+    "type": "Counting",
+    "question": "Can you identify the principal disparity between these two images?",
+    "options": [
+      "A. In the second image, the number of visible planes increases to two, whereas in the first image, only one plane is visible.",
+      "B. In the second image, the number of visible planes increases to three, whereas in the first image, only one plane is visible.",
+      "C. In the second image, the number of visible planes remains the same at one, whereas in the first image, none are visible.",
+      "D. In the second image, the number of visible planes decreases to one, whereas in the first image, two planes are visible."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/test_00771.jpg",
+    "edited_image_name": "images/test_00771_edited.jpg",
+    "type": "Negation",
+    "question": "How do these two images primarily differ from each other?",
+    "options": [
+      "A. In the second image, the red leash attached to the puppy, which was present in the first image, is replaced with a blue leash.  ",
+      "B. In the second image, the red leash attached to the puppy, which was present in the first image, is mentioned but not visible in the image.  ",
+      "C. In the second image, the red leash attached to the puppy, which was present in the first image, is not mentioned.",
+      "D. In the second image, the red leash attached to the puppy, which was present in the first image, is missing entirely from both the caption and the image.  "
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/test_01061.jpg",
+    "edited_image_name": "images/test_01061_edited.jpg",
+    "type": "Differentiation",
+    "question": "What distinguishes one image from the other?",
+    "options": [
+      "A. In the second image, a bird is perched on the tape player, whereas in the first image, a small white paper airplane flies near the hand and stop light.",
+      "B. In the second image, a small white paper airplane flies near the hand and stop light, whereas in the first image, a bird is perched on the ground next to the tape player.",
+      "C. In the second image, a bird is perched on the tape player, whereas in the first image, a small white paper airplane is perched on the hand and stop light.",
+      "D. In the second image, a bird flies near the hand and stop light, whereas in the first image, a small white paper airplane is perched on the tape player."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/test_01083.jpg",
+    "edited_image_name": "images/test_01083_edited.jpg",
+    "type": "Negation",
+    "question": "Can you identify the principal disparity between these two images?",
+    "options": [
+      "A. In the second image, the small orange cone present in the bottom right of the first image is replaced with a different object.",
+      "B. In the second image, the absence of the orange cone in the bottom right of the first image is incorrectly highlighted.",
+      "C. In the second image, the small orange cone present in the bottom left of the first image is not mentioned.",
+      "D. In the second image, the small orange cone present in the bottom right of the first image is not mentioned."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/test_02199.jpg",
+    "edited_image_name": "images/test_02199_edited.jpg",
+    "type": "Counting",
+    "question": "What is the fundamental difference you can see between these two visuals?",
+    "options": [
+      "A. In the second image, a smaller car is seen parked at the top of the ramp, which is not present in the first image.  ",
+      "B. In the second image, a smaller car is visible further up the ramp, which is not present in the first image.  ",
+      "C. In the second image, a smaller car is seen further along the road next to the ramp, which is not present in the first image.  ",
+      "D. In the second image, a smaller car is seen further down the ramp, which is not present in the first image."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/test_04667.jpg",
+    "edited_image_name": "images/test_04667_edited.jpg",
+    "type": "Negation",
+    "question": "Can you identify the principal disparity between these two images?",
+    "options": [
+      "A. In the second image, the white poster with a rainbow-colored design on the side of the streetcar that is present in the first image is not mentioned.",
+      "B. In the second image, the white poster with a gradient rainbow background on the side of the streetcar that is shown in the first image is not visible.",
+      "C. In the second image, the white poster with a butterfly design in rainbow colors on the side of the streetcar that is visible in the first image is absent.",
+      "D. In the second image, the white poster with a solid rainbow-colored stripe on the side of the streetcar that is present in the first image is not mentioned."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/train_02579.jpg",
+    "edited_image_name": "images/train_02579_edited.jpg",
+    "type": "Differentiation",
+    "question": "What is the fundamental difference you can see between these two visuals?",
+    "options": [
+      "A. In the second image, there is a man in formal clothing, whereas in the first image, he is absent.  ",
+      "B. In the second image, there is a man in casual clothing standing in the foreground, whereas in the first image, he is standing further back.  ",
+      "C. In the second image, there is a man in casual clothing, whereas in the first image, he is absent.",
+      "D. In the second image, there is a man dressed casually holding an object, whereas in the first image, he is absent.  "
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/train_05889.jpg",
+    "edited_image_name": "images/train_05889_edited_split3.jpg",
+    "type": "Negation",
+    "question": "Can you identify the principal disparity between these two images?",
+    "options": [
+      "A. The flag in the first image is missing the yellow diamond shape.",
+      "B. The background color of the flag changes between the two images.",
+      "C. The flag in the first image is missing the yellow diamond shape.",
+      "D. The flag in the second image is positioned more vertically (tilted), while the flag in the first image is more horizontal."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/train_08353.jpg",
+    "edited_image_name": "images/train_08353_edited_split3.jpg",
+    "type": "Counting",
+    "question": "Can you identify the principal disparity between these two images?",
+    "options": [
+      "A. In the second image, there are three cranes, whereas in the first image, there is only one crane.  ",
+      "B. In the second image, there are four cranes, whereas in the first image, there are only two cranes.  ",
+      "C. In the second image, there are three cranes, whereas in the first image, there are only two cranes.",
+      "D. In the second image, there are three cranes, whereas in the first image, there are three cranes as well but one is hidden.  "
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/train_08461.jpg",
+    "edited_image_name": "images/train_08461_edited_split3.jpg",
+    "type": "Counting",
+    "question": "How do these two images primarily differ from each other?",
+    "options": [
+      "A. In the second image, there is no mention of empty parking spots or a white car, whereas these elements are mentioned in the first image.",
+      "B. In the second image, there is mention of a white car, but the reference to empty parking spots is omitted, whereas both are mentioned together in the first image.",
+      "C. In the second image, there is no mention of empty parking spots, but the white car appears in both images, whereas in the first image it is specifically noted alongside the parking spots.",
+      "D. In the second image, there is no mention of empty parking spots, but it specifies the placement of a white car, while the first image includes both details without clarification."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/4860.jpg",
+    "edited_image_name": "images/4860_edit.jpg",
+    "type": "Comparison",
+    "question": "What is the main distinction between these two images?",
+    "options": [
+      "A. In the second image, the bowl is positioned differently relative to the glass of wine than in the first image.",
+      "B. In the second image, the glass of wine is positioned differently relative to the bowl than in the first image.",
+      "C. In the second image, the glass of wine is tilted at a different angle relative to the bowl than in the first image.",
+      "D. In the second image, the glass of wine is positioned differently relative to the plate than in the first image."
+    ],
+    "answer": "B"
+  },
+  {
+    "image_name": "images/713745.jpg",
+    "edited_image_name": "images/713745_edit.jpg",
+    "type": "Differentiation",
+    "question": "What distinguishes one image from the other?",
+    "options": [
+      "A. In the second image, the cabinets have a medium oak finish, whereas in the first image, the cabinets are pristine and white resembling ice.  ",
+      "B. In the second image, the cabinets have a medium brown finish, whereas in the first image, the cabinets are bright and clean resembling snow.",
+      "C. In the second image, the cabinets have a dark chestnut finish, whereas in the first image, the cabinets are a light shade resembling frost.  ",
+      "D. In the second image, the cabinets have a rich walnut finish, whereas in the first image, the cabinets are bright and clean resembling ivory.  "
+    ],
+    "answer": "B"
+  },
+  {
+    "image_name": "images/2393492.jpg",
+    "edited_image_name": "images/2393492_edit.jpg",
+    "type": "Object",
+    "question": "What's the most significant contrast between these two photos?",
+    "options": [
+      "A. In the second image, a basket of items is on the coffee table, and the books are on a small table to the left, whereas in the first image, the books are on the coffee table.",
+      "B. In the second image, a basket of items is on the coffee table, and the books are missing from the scene, whereas in the first image, the books are on the coffee table.",
+      "C. In the second image, a basket of items is on the small table to the left, and the coffee table is empty, whereas in the first image, the books are on the coffee table.",
+      "D. In the second image, the books are on the coffee table, and a basket of items is on a small table to the left, whereas in the first image, the basket of items is on the coffee table and the books are on a small table to the left."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/140.jpg",
+    "edited_image_name": "images/140_edit.jpg",
+    "type": "Counting",
+    "question": "How do these two images primarily differ from each other?",
+    "options": [
+      "A. In the second image, there are three bicycles and a few additional scooters, indicating a slight variation in transportation modes compared to the three bikes in the first image.",
+      "B. In the second image, there are several bicycles that have been uniquely rearranged, indicating a different configuration compared to the three bikes in the first image.",
+      "C. In the second image, there are several bicycles and a few additional bikes, indicating a larger quantity compared to the three bikes in the first image.",
+      "D. In the second image, there are eight bicycles in total, indicating a doubling of the quantity compared to the three bikes in the first image."
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/233.jpg",
+    "edited_image_name": "images/233_edit.jpg",
+    "type": "Comparison",
+    "question": "Can you identify the principal disparity between these two images?",
+    "options": [
+      "A. In the first image, the refrigerator is positioned on the right side, whereas in the second image, it was positioned on the left side.  ",
+      "B. In the first image, the refrigerator appears closer to the center, whereas in the second image, it is positioned farther to the left.  ",
+      "C. In the second image, the refrigerator is positioned farther to the left than it was in the first image.  ",
+      "D. In the second image, the refrigerator is positioned on the right side, whereas in the first image, it was positioned on the left side."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/650.jpg",
+    "edited_image_name": "images/650_edit.jpg",
+    "type": "Differentiation",
+    "question": "What is the main distinction between these two images?",
+    "options": [
+      "A. In the second image, the lake is a deep shade of blue without any noticeable transitions, whereas in the first image, the lake is light-blue with a slight green tint but without any shimmering effects.",
+      "B. In the second image, the lake is vividly blue transitioning to green near the shore, whereas in the first image, the lake is light-blue with a slight turquoise tint and shimmering due to sunlight.",
+      "C. In the second image, the lake is vividly blue transitioning to turquoise near the shore, whereas in the first image, the lake is light-blue with a slight green tint and shimmering due to sunlight.",
+      "D. In the second image, the lake is vividly blue with shimmering highlights, whereas in the first image, the lake is light-blue transitioning to turquoise near the shore and appears completely still."
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/1071.jpg",
+    "edited_image_name": "images/1071_edit.jpg",
+    "type": "Counting",
+    "question": "What's the most notable variation between these two pictures?",
+    "options": [
+      "A. In the second image, there are approximately 15 bicycles neatly lined up, whereas in the first image, numerous bicycles are spread out.",
+      "B. In the second image, there are approximately 15 bicycles arranged in a cluster, whereas in the first image, numerous bicycles are placed in organized rows.",
+      "C. In the second image, there are approximately 15 bicycles stacked closely together, whereas in the first image, numerous bicycles are parked in even intervals.",
+      "D. In the second image, there are approximately 15 bicycles scattered around casually, whereas in the first image, numerous bicycles are neatly lined up."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/1186.jpg",
+    "edited_image_name": "images/1186_edit.jpg",
+    "type": "Differentiation",
+    "question": "What is the fundamental difference you can see between these two visuals?",
+    "options": [
+      "A. In the second image, the refrigerator is large, white, and stainless steel with a solid door, whereas in the first image, the refrigerator is small, black, and lacks a glass door.",
+      "B. In the second image, the refrigerator is large, black, and has a glass door, whereas in the first image, the refrigerator is small, white, and does not have a stainless steel finish.",
+      "C. In the second image, the refrigerator is large, black, and stainless steel with a solid door, whereas in the first image, the refrigerator is small, white, and lacks a glass door.",
+      "D. In the second image, the refrigerator is large, black, and stainless steel with a glass door, whereas in the first image, the refrigerator is small, white, and has a solid door."
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/2404729.jpg",
+    "edited_image_name": "images/2404729_edit.jpg",
+    "type": "Negation",
+    "question": "What's the key difference between these two pictures?",
+    "options": [
+      "A. In the second image, one traffic light is green and the other is turned off, whereas in the first image, both traffic lights are orange.",
+      "B. In the second image, one traffic light is green while the other is red, whereas in the first image, both traffic lights are illuminated but one is orange and the other is red.",
+      "C. In the second image, one traffic light is green and the other is flashing red, whereas in the first image, both traffic lights are steady red.",
+      "D. In the second image, one traffic light is green and the other is not illuminated, whereas in the first image, both traffic lights are red."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/2397802.jpg",
+    "edited_image_name": "images/2397802_edit.jpg",
+    "type": "Differentiation",
+    "question": "How do these two images primarily differ from each other?",
+    "options": [
+      "A. In the second image, the sky is bright blue with scattered clouds, and the scene depicts a lively urban setting with houses along dead-end paths, whereas in the first image, the sky is cloudy and gray with a smooth texture, and the scene features trees, cars, and people on a tranquil residential street.",
+      "B. In the second image, the sky is bright blue with scattered white clouds, and the scene depicts a residential setting with houses along dead-end paths, whereas in the first image, the sky is cloudy and gray with a marshmallow-like texture, and the setting features a busy urban environment with trees, traffic lights, and pedestrians.",
+      "C. In the second image, the sky is bright blue with scattered white clouds, and the scene depicts a lively urban setting with trees, buildings, traffic lights, cars, and pedestrians, whereas in the first image, the sky is cloudy and gray with a marshmallow-like texture, and the setting features houses along dead-end paths.",
+      "D. In the second image, the sky is bright blue with scattered white clouds, and the scene depicts a lively urban setting with houses, trees, and quiet streets, whereas in the first image, the sky is cloudy and gray with a marshmallow-like texture, and the setting features a bustling urban environment with traffic lights, cars, and people."
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/2405560.jpg",
+    "edited_image_name": "images/2405560_edit.jpg",
+    "type": "Differentiation",
+    "question": "Can you identify the principal disparity between these two images?",
+    "options": [
+      "A. In the second image, the fighter jet has a colorful rainbow tail and no black markings, whereas in the first image, the airplane has a blue tail with black markings.",
+      "B. In the second image, the fighter jet has a blue tail and black markings, whereas in the first image, the airplane has a colorful rainbow tail and no markings.",
+      "C. In the second image, the fighter jet has a blue tail and no black markings, whereas in the first image, the airplane has a colorful rainbow tail and black markings.",
+      "D. In the second image, the fighter jet has a blue tail with black markings, whereas in the first image, the airplane has a colorful rainbow tail and no black markings."
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/2405484.jpg",
+    "edited_image_name": "images/2405484_edit.jpg",
+    "type": "Differentiation",
+    "question": "What's the most notable variation between these two pictures?",
+    "options": [
+      "A. In the second image, the dog's collar is blue with a metallic object, whereas in the first image, the collar is red with a metallic tag.",
+      "B. In the second image, the dog's collar is blue with a metallic tag, whereas in the first image, the collar is red with a blue object.",
+      "C. In the second image, the dog's collar is blue with a blue object, whereas in the first image, the collar is red with a metallic tag.",
+      "D. In the second image, the dog's collar is blue with a metallic tag, whereas in the first image, the collar is red with a red object."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/train_01227.jpg",
+    "edited_image_name": "images/train_01227_edited.jpg",
+    "type": "Differentiation",
+    "question": "How do these two images primarily differ from each other?",
+    "options": [
+      "A. In the second image, the tree has sparse yellow foliage on the main branch extending from the bottom middle, whereas in the first image, the tree has no leaves on this branch.",
+      "B. In the second image, the tree has sparse green foliage on the top branches, whereas in the first image, those top branches have no leaves.",
+      "C. In the second image, the tree has dense green foliage on the main branch extending from the bottom middle, whereas in the first image, the tree has sparse yellow leaves on this branch.",
+      "D. In the second image, the tree has sparse green foliage on the main branch extending from the bottom middle, whereas in the first image, the tree has no leaves on this branch."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/train_01253.jpg",
+    "edited_image_name": "images/train_01253_edited.jpg",
+    "type": "Comparison",
+    "question": "What's the key difference between these two pictures?",
+    "options": [
+      "A. In the second image, the snowmen from the first image are replaced with inflatable Christmas trees.",
+      "B. In the second image, the snowmen from the first image are replaced with inflatable outdoor lights shaped like Christmas trees.  ",
+      "C. In the second image, the snowmen from the first image are replaced with inflatable reindeer decorations.  ",
+      "D. In the second image, the snowmen from the first image are replaced with inflatable Santa Claus figures.  "
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/train_02604.jpg",
+    "edited_image_name": "images/train_02604_edited.jpg",
+    "type": "Negation",
+    "question": "What's the most notable variation between these two pictures?",
+    "options": [
+      "A. In the second image, the green 1940s pickup truck and the green bag tied to the body of the half-track are replaced with a red pickup truck and a canvas sack, whereas the first image shows the original items intact.",
+      "B. In the second image, the green 1940s pickup truck is absent, but the green bag tied to the body of the half-track remains present, whereas both are present in the first image.",
+      "C. In the second image, the green 1940s pickup truck and the green bag tied to the body of the half-track are absent, whereas they are present in the first image.",
+      "D. In the second image, the green bag tied to the body of the half-track has been removed, but the green 1940s pickup truck remains present, whereas both are present in the first image."
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/train_04768.jpg",
+    "edited_image_name": "images/train_04768_edited_split3.jpg",
+    "type": "Differentiation",
+    "question": "What is the main distinction between these two images?",
+    "options": [
+      "A. In the second image, a person is walking across the street in the background, which is not mentioned in the first image.",
+      "B. In the second image, a person is standing still on the sidewalk in the background, which is not mentioned in the first image.",
+      "C. In the second image, a person is walking across the street in the foreground, which is not mentioned in the first image.",
+      "D. In the second image, a bicycle is crossing the street in the background, which is not mentioned in the first image."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/train_04964.jpg",
+    "edited_image_name": "images/train_04964_edited_split3.jpg",
+    "type": "Scene",
+    "question": "How do these two images primarily differ from each other?",
+    "options": [
+      "A. In the first image, the white pole and the darkened seating area visible in the second image are not mentioned.  ",
+      "B. In the second image, the white pole and the darkened seating area are both replaced with a brighter seating area.",
+      "C. In the second image, the white pole and the darkened seating area present in the first image are not mentioned.",
+      "D. In the second image, the white pole is missing, but the darkened seating area remains from the first image."
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/train_05124.jpg",
+    "edited_image_name": "images/train_05124_edited_split3.jpg",
+    "type": "Counting",
+    "question": "What is the main distinction between these two images?",
+    "options": [
+      "A. In the second image, the number of stickers on the pillar is reduced to six, whereas in the first image, there were eight stickers. ",
+      "B. In the second image, the number of stickers on the pillar is reduced to seven, whereas in the first image, there were nine stickers.",
+      "C. In the second image, the number of stickers on the pillar is increased to ten, whereas in the first image, there were nine stickers.",
+      "D. In the second image, the number of stickers on the pillar is reduced to seven, whereas in the first image, there were eight stickers. "
+    ],
+    "answer": "B"
+  },
+  {
+    "image_name": "images/train_05668.jpg",
+    "edited_image_name": "images/train_05668_edited_split3.jpg",
+    "type": "Scene",
+    "question": "What's the key difference between these two pictures?",
+    "options": [
+      "A. In the second image, there is only a line of tree tops and a single rooftop, whereas in the first image, the scene includes a set of roofs and tree tops.",
+      "B. In the second image, there are only tree tops visible without any rooftops, whereas in the first image, the scene includes both a line of rooftops and scattered tree tops.",
+      "C. In the second image, there is a line of rooftops and a single tree top, whereas in the first image, the scene includes a line of roofs and various scattered tree tops.",
+      "D. In the second image, there is only a single tree top and one rooftop, whereas in the first image, the scene includes multiple rooftops and scattered tree tops."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/train_05848.jpg",
+    "edited_image_name": "images/train_05848_edited_split3.jpg",
+    "type": "Counting",
+    "question": "What is the primary difference between the two images?",
+    "options": [
+      "A. In the second image, there are multiple reflective disco balls of varying sizes without a specific count, whereas in the first image, there are eight mirror disco balls explicitly specified.",
+      "B. In the second image, there are multiple reflective disco balls explicitly specified as eight, whereas in the first image, the disco balls are referenced generically without mentioning their size or count.  ",
+      "C. In the second image, there are eight mirror disco balls explicitly mentioned, whereas in the first image, multiple reflective disco balls of varying sizes are described without a specific count.  ",
+      "D. In the second image, there are multiple reflective disco balls of the same size and explicitly counted, whereas in the first image, eight mirror disco balls of varying sizes are specified."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/train_06635.jpg",
+    "edited_image_name": "images/train_06635_edited_split3.jpg",
+    "type": "Spatial Relation",
+    "question": "What's the key difference between these two pictures?",
+    "options": [
+      "A. In the second image, the carriage has white lanterns on the driver's side, whereas in the first image, the carriage has a black lamp on either side.  ",
+      "B. In the second image, the carriage has white lanterns on both sides, whereas in the first image, the carriage has a dark lamp on the passenger's side.  ",
+      "C. In the second image, the carriage’s lighting features a single white lantern on the driver's side, whereas in the first image, the carriage has black lamps on both sides.  ",
+      "D. In the second image, the carriage has white lanterns on either side, whereas in the first image, the carriage has a black lamp on the driver's side."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/train_07250.jpg",
+    "edited_image_name": "images/train_07250_edited_split3.jpg",
+    "type": "Negation",
+    "question": "What's the key difference between these two pictures?",
+    "options": [
+      "A. In the second image, the large globe is absent, but the box-shaped structure with screens remains, whereas both elements are present in the first image.",
+      "B. In the first image, the large globe with the word \"Paris\" is missing, but the box-shaped structure with screens is present, whereas both elements are visible in the second image.",
+      "C. In the second image, the box-shaped structure with screens and the large globe with the word \"Paris\" appear shifted to the side, whereas they remain centrally positioned in the first image.",
+      "D. In the second image, the large globe with the word \"Paris\" and the box-shaped structure with screens are absent, whereas they are present in the first image."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/train_07777.jpg",
+    "edited_image_name": "images/train_07777_edited_split3.jpg",
+    "type": "Comparison",
+    "question": "What is the fundamental difference you can see between these two visuals?",
+    "options": [
+      "A. In the second image, a school of yellow-tipped fish is highlighted without mentioning other fish, whereas in the first image, both yellow-tipped fish and other fish in the background are described.  ",
+      "B. In the second image, specific yellow-tipped fish are mentioned in detail, whereas in the first image, only a generalized description of a school of fish is provided.  ",
+      "C. In the second image, a school of yellow-tipped fish and other fish in the background are described, whereas in the first image, specific fish are mentioned.",
+      "D. In the second image, the focus is on individual yellow-tipped fish in the foreground, while in the first image, other fish in the background are described without mentioning yellow-tipped fish.  "
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/train_07910.jpg",
+    "edited_image_name": "images/train_07910_edited_split3.jpg",
+    "type": "Action Relation",
+    "question": "What's the most significant contrast between these two photos?",
+    "options": [
+      "A. In the second image, part of a swing set is visible to the left, whereas in the first image, brown metal poles and trees on both sides are mentioned, with no swing set specified.",
+      "B. In the second image, part of a swing set appears to the left, whereas in the first image, brown wooden poles and trees on one side are mentioned, with no swing set specified.",
+      "C. In the second image, part of a swing set is visible to the right, whereas in the first image, brown metal poles and shrubs on both sides are mentioned, with no swing set specified.",
+      "D. In the second image, part of a swing set is visible on both sides, whereas in the first image, brown metal poles and trees on the left are mentioned, with no swing set visible."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/train_09239.jpg",
+    "edited_image_name": "images/train_09239_edited_split3.jpg",
+    "type": "Universality",
+    "question": "How do these two images primarily differ from each other?",
+    "options": [
+      "A. In the second image, two individuals are visible near the staircase, whereas in the first image, the staircase itself is not visible.  ",
+      "B. In the second image, two individuals are walking down the staircase, whereas in the first image, the staircase is empty.  ",
+      "C. In the second image, two individuals are visible on the staircase, whereas in the first image, one individual is mentioned on the staircase.  ",
+      "D. In the second image, two individuals are visible on the staircase, whereas in the first image, no people are mentioned."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/2066.jpg",
+    "edited_image_name": "images/2066_edit.jpg",
+    "type": "Comparison",
+    "question": "What's the most notable variation between these two pictures?",
+    "options": [
+      "A. In the second image, the floors are described as resembling large pieces of chocolate, whereas in the first image, the floors are described as having dark, square tiles.",
+      "B. In the second image, the floors are described as dark, square tiles with a glossy texture, whereas in the first image, the floors are described as simple dark-colored tiles.",
+      "C. In the second image, the floors are described as resembling dark, rectangular tiles, whereas in the first image, the floors are described as resembling large bars of chocolate.",
+      "D. In the second image, the floors are described as having dark, square tiles, whereas in the first image, the floors are described as resembling large pieces of chocolate."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/2441.jpg",
+    "edited_image_name": "images/2441_edit.jpg",
+    "type": "Part Relation",
+    "question": "What is the fundamental difference you can see between these two visuals?",
+    "options": [
+      "A. In the second image, the shirts and flag colors are specified, whereas in the first image, only a country's flag is mentioned.",
+      "B. In the second image, both the shirts and flag are explicitly described, whereas in the first image, only the colors of the shirts are mentioned alongside the flag.",
+      "C. In the second image, specific colors of the flag are shown on the banner, while in the first image, the caption simply describes the flag without mentioning colors.",
+      "D. In the second image, the flag colors are specified for shirts, whereas in the first image, only a country's flag is visible on the shirts."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/2725.jpg",
+    "edited_image_name": "images/2725_edit.jpg",
+    "type": "Scene",
+    "question": "Can you identify the principal disparity between these two images?",
+    "options": [
+      "A. In the second image, cars are parked alongside the paved pathway, whereas in the first image, a single car is parked to the right of the trees.",
+      "B. In the second image, cars are parked directly under the trees along a paved pathway, whereas in the first image, a car is parked beside the trees but not near a pathway.",
+      "C. In the second image, there is a car parked on the left side of the paved pathway, whereas in the first image, cars are parked on the pathway alongside the trees.",
+      "D. In the second image, there is a paved pathway with a car parked on the right side of the path, whereas in the first image, cars are parked alongside the trees."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/3139.jpg",
+    "edited_image_name": "images/3139_edit.jpg",
+    "type": "Attribute",
+    "question": "What's the most significant contrast between these two photos?",
+    "options": [
+      "A. In the second image, the prominent house is a bright green house with white trim, whereas in the first image, it was a small, cute pink house resembling a storybook home.",
+      "B. In the second image, the prominent house is a bright blue house with white trim, whereas in the first image, it was a large, cute pink house resembling a storybook home.",
+      "C. In the second image, the prominent house is a bright blue house with white trim, whereas in the first image, it was a small, cute pink house resembling a storybook home.",
+      "D. In the second image, the prominent house is a bright blue house with yellow trim, whereas in the first image, it was a small, elegant pink house resembling a storybook home."
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/3574.jpg",
+    "edited_image_name": "images/3574_edit.jpg",
+    "type": "Spatial Relation",
+    "question": "What's the most significant contrast between these two photos?",
+    "options": [
+      "A. In the second image, the stop sign is positioned further away from the road, whereas in the first image, it is positioned close to the right side of the road.",
+      "B. In the second image, the stop sign is positioned before reaching the road, whereas in the first image, it is positioned on the left side of the road.",
+      "C. In the second image, the stop sign is positioned on the right side of the road, whereas in the first image, it is positioned before reaching the road.",
+      "D. In the second image, the stop sign is positioned on the right side of the road, whereas in the first image, it is positioned directly at the intersection of the road."
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/4171.jpg",
+    "edited_image_name": "images/4171_edit.jpg",
+    "type": "Comparison",
+    "question": "What's the most notable variation between these two pictures?",
+    "options": [
+      "A. In the second image, the floor color is reddish-brown, whereas in the first image, the floor color is described as mahogany.  ",
+      "B. In the second image, the floor color is reddish-brown, whereas in the first image, the floor color is described as chocolate.",
+      "C. In the second image, the floor color is a lighter reddish-brown, whereas in the first image, the floor color is described as dark brown.  ",
+      "D. In the first image, the floor color is chocolate-toned, whereas in the second image, the floor color is described as deep brown.  "
+    ],
+    "answer": "B"
+  },
+  {
+    "image_name": "images/4279.jpg",
+    "edited_image_name": "images/4279_edit.jpg",
+    "type": "Comparison",
+    "question": "What is the main distinction between these two images?",
+    "options": [
+      "A. In the second image, the countertops are white, whereas in the first image, the countertops are black.",
+      "B. In the second image, the countertops are cream-colored, whereas in the first image, the countertops are dark brown.",
+      "C. In the second image, the countertops are white, whereas in the first image, the countertops are chocolate-colored.",
+      "D. In the second image, the countertops are light gray, whereas in the first image, the countertops are chocolate-colored."
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/4763.jpg",
+    "edited_image_name": "images/4763_edit.jpg",
+    "type": "Comparison",
+    "question": "How do these two images primarily differ from each other?",
+    "options": [
+      "A. In the second image, the sky color features a mix of deep purple and gray hues with scattered clouds, suggesting stormy weather, whereas in the first image, the sky is bright blue with white clouds.",
+      "B. In the second image, the sky color features a mix of soft pink and orange hues with scattered clouds, indicating a different time of day, whereas in the first image, the sky is bright blue with white clouds.",
+      "C. In the second image, the sky color changes to a mix of soft pink and purple hues with clear skies, indicating a different time of day, whereas in the first image, the sky is bright blue and cloudy.",
+      "D. In the second image, the sky color features a mix of soft pink and purple hues with scattered clouds, indicating a different time of day, whereas in the first image, the sky is bright blue with white clouds."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/4931.jpg",
+    "edited_image_name": "images/4931_edit.jpg",
+    "type": "Comparison",
+    "question": "What's the most notable variation between these two pictures?",
+    "options": [
+      "A. In the second image, the sky is painted with vibrant hues of orange, pink, and purple during nighttime, whereas in the first image, the sky is described as a calm blue expanse with scattered white clouds.",
+      "B. In the second image, the sky is painted with vibrant hues of orange, pink, and purple during sunset, whereas in the first image, the sky is described as a blue blanket with a fluffy, white ball.",
+      "C. In the second image, the sky is painted with vibrant hues of orange, pink, and red during sunset, whereas in the first image, the sky is described as a blue canvas with a single, wispy white streak.",
+      "D. In the second image, the sky is painted with vibrant hues of yellow, pink, and purple during sunrise, whereas in the first image, the sky is described as a blue blanket with soft, white puffs."
+    ],
+    "answer": "B"
+  },
+  {
+    "image_name": "images/150554.jpg",
+    "edited_image_name": "images/150554_edit.jpg",
+    "type": "Part Relation",
+    "question": "What's the most notable variation between these two pictures?",
+    "options": [
+      "A. In the second image, the bus color is blue and beige, whereas in the first image, the bus was green and white.",
+      "B. In the second image, the bus color is white and green, whereas in the first image, the bus was beige and blue.",
+      "C. In the second image, the bus color is green and white, whereas in the first image, the bus was blue and beige.",
+      "D. In the second image, the bus color is blue and white, whereas in the first image, the bus was green and beige."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/497932.jpg",
+    "edited_image_name": "images/497932_edit.jpg",
+    "type": "Part Relation",
+    "question": "What is the primary difference between the two images?",
+    "options": [
+      "A. In the second image, the train is red with a boxy front design and a glossy plastic material, whereas in the first image, the train is olive green and white with an angular appearance.",
+      "B. In the second image, the train is red with an animal-like appearance and metallic material, whereas in the first image, the train is olive green and white with a sleek, modern front design.",
+      "C. In the second image, the train is red with a rounded front design and metallic material, whereas in the first image, the train is olive green and white with a boxy appearance.",
+      "D. In the second image, the train is red with a boxy front design and metallic material, whereas in the first image, the train is olive green and white with an animal-like appearance."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/497946.jpg",
+    "edited_image_name": "images/497946_edit.jpg",
+    "type": "Comparison",
+    "question": "What's the key difference between these two pictures?",
+    "options": [
+      "A. In the second image, the sky is vivid blue with scattered clouds, whereas in the first image, the sky is light blue and clear like water.",
+      "B. In the second image, the sky is vivid blue and entirely clear, whereas in the first image, the sky is light blue with scattered clouds.",
+      "C. In the second image, the sky is vivid blue with scattered clouds, whereas in the first image, the sky is pale blue and slightly hazy.",
+      "D. In the second image, the sky is light blue and clear like water, whereas in the first image, the sky is vivid blue with scattered clouds."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/498295.jpg",
+    "edited_image_name": "images/498295_edit.jpg",
+    "type": "Universality",
+    "question": "How do these two images primarily differ from each other?",
+    "options": [
+      "A. In the second image, the bus is primarily blue with yellow sides, whereas in the first image, the bus is primarily green with white parts.",
+      "B. In the second image, the bus is blue with white and yellow parts, whereas in the first image, the bus is primarily green with white sides.",
+      "C. In the second image, the bus is blue with yellow parts, whereas in the first image, the bus is green with white sides.",
+      "D. In the second image, the bus is blue with white sides, whereas in the first image, the bus is primarily green with yellow parts."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/285867.jpg",
+    "edited_image_name": "images/285867_edit.jpg",
+    "type": "Action Relation",
+    "question": "What is the fundamental difference you can see between these two visuals?",
+    "options": [
+      "A. In the first image, the player is preparing to push the ball forward, while in the second image, the player is stepping away from the ball and preparing for a defensive move.",
+      "B. In the second image, The player in the first caption is about to push the ball forward while in the second caption, the player is running towards the ball preparing to make contact. compared to the first image.",
+      "C. In the first image, the player is about to push the ball forward, while in the second image, the player has already made contact with the ball and is guiding it forward.",
+      "D. In the first image, the player is about to push the ball forward, while in the second image, the player is standing still and waiting for the ball to come closer."
+    ],
+    "answer": "B"
+  },
+  {
+    "image_name": "images/1159528.jpg",
+    "edited_image_name": "images/1159528_edit.jpg",
+    "type": "Comparison",
+    "question": "What is the fundamental difference you can see between these two visuals?",
+    "options": [
+      "A. In the second image, the water in the canal is tinted in a light orange hue, whereas in the first image, it resembles dark chocolate.  ",
+      "B. In the second image, the water in the canal is described as resembling chocolate syrup, whereas in the first image, it is tinted in a pale orange hue.  ",
+      "C. In the second image, the water in the canal is tinted in a reddish-orange hue, whereas in the first image, it resembles caramel.  ",
+      "D. In the second image, the water in the canal is tinted in a deep orange hue, whereas in the first image, it resembles chocolate milk."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/1159860.jpg",
+    "edited_image_name": "images/1159860_edit.jpg",
+    "type": "Action Relation",
+    "question": "How do these two images primarily differ from each other?",
+    "options": [
+      "A. In the second image, the chili peppers are positioned directly beside the produce, whereas in the first image, they are described as hanging above the baskets.",
+      "B. In the second image, the chili peppers are positioned on top of the produce, whereas in the first image, they are described as hanging above the baskets.",
+      "C. In the second image, the chili peppers are described as being near the baskets, whereas in the first image, they are hanging on top of the produce.",
+      "D. In the second image, the chili peppers are hanging above the produce, whereas in the first image, they are positioned on top of the baskets."
+    ],
+    "answer": "B"
+  },
+  {
+    "image_name": "images/1159871.jpg",
+    "edited_image_name": "images/1159871_edit.jpg",
+    "type": "Universality",
+    "question": "What's the most significant contrast between these two photos?",
+    "options": [
+      "A. In the second image, the trees in the background have a mix of vibrant yellow and red foliage, whereas in the first image, the trees in the background are green.",
+      "B. In the second image, the trees in the background have darker green foliage with hints of brown, whereas in the first image, the trees in the background are bright green.",
+      "C. In the second image, the trees in the background have a mix of vibrant red and green foliage, whereas in the first image, the trees in the background are green.",
+      "D. In the second image, the trees in the background are entirely red, whereas in the first image, the trees in the background are green."
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/1160113.jpg",
+    "edited_image_name": "images/1160113_edit.jpg",
+    "type": "Part Relation",
+    "question": "What is the main distinction between these two images?",
+    "options": [
+      "A. In the second image, the carpet is green with a simple striped pattern, whereas in the first image, the carpet is vibrant with bold floral designs.",
+      "B. In the second image, the carpet is described as green with intricate patterns, whereas in the first image, the carpet is described as vibrant with floral motifs.",
+      "C. In the second image, the carpet is green with geometric patterns, whereas in the first image, the carpet is vibrant with floral patterns.",
+      "D. In the second image, the carpet is green with a floral pattern, whereas in the first image, the carpet is vibrant with intricate patterns."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/2372388.jpg",
+    "edited_image_name": "images/2372388_edit.jpg",
+    "type": "Comparison",
+    "question": "Can you identify the principal disparity between these two images?",
+    "options": [
+      "A. In the second image, the person is wearing a shiny raincoat with blue and gray details, whereas in the first image, the man is wearing a transparent rain jacket with white and gray details.",
+      "B. In the second image, the person is wearing a transparent rain jacket with blue and white details, whereas in the first image, the man is wearing a shiny white and gray raincoat.",
+      "C. In the second image, the person is wearing a transparent rain jacket with gray and white details, whereas in the first image, the man is wearing a shiny white and blue raincoat.",
+      "D. In the second image, the person is wearing a shiny white and gray raincoat, whereas in the first image, the man is wearing a transparent rain jacket with blue and white details."
+    ],
+    "answer": "B"
+  },
+  {
+    "image_name": "images/2366695.jpg",
+    "edited_image_name": "images/2366695_edit.jpg",
+    "type": "Universality",
+    "question": "What distinguishes one image from the other?",
+    "options": [
+      "A. In the second image, the train’s design pattern and the tracks’ color are different compared to the first image.  ",
+      "B. In the second image, the train's color scheme is the same as the first image, but the tracks' color is different compared to the first image.  ",
+      "C. In the second image, the train's color scheme and the tracks' arrangement are different compared to the first image.  ",
+      "D. In the second image, the train's color scheme and the tracks' color are different compared to the first image."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/2391143.jpg",
+    "edited_image_name": "images/2391143_edit.jpg",
+    "type": "Part Relation",
+    "question": "What's the most significant contrast between these two photos?",
+    "options": [
+      "A. In the second image, the curtains are purple drapes with dark brown valances, whereas in the first image, the curtains are red and thin.  ",
+      "B. In the second image, the curtains are blue and thin, whereas in the first image, the curtains are red drapes with dark brown valances.  ",
+      "C. In the second image, the curtains are blue drapes with dark brown valances, whereas in the first image, the curtains are red and thin.",
+      "D. In the second image, the curtains are blue drapes without valances, whereas in the first image, the curtains are red and thin.  "
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/137.jpg",
+    "edited_image_name": "images/137_edit.jpg",
+    "type": "Action Relation",
+    "question": "Can you identify the principal disparity between these two images?",
+    "options": [
+      "A. In the second image, a city sidewalk is depicted with various urban elements like a bench, bicycle, and building facade, whereas the first image shows a flat concrete surface with a tree.",
+      "B. In the second image, a city sidewalk is depicted with urban elements like a bench, bicycle, and outdoor café seating, whereas the first image shows a flat concrete surface with scattered plants.",
+      "C. In the second image, a city sidewalk is depicted with various urban elements like a bench, bicycle, and building facade, whereas the first image shows a concrete surface surrounded by several trees.",
+      "D. In the second image, a city sidewalk is depicted with elements like a bench, a lamppost, and a building facade, whereas the first image shows a smooth concrete surface under a canopy of trees."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/2403068.jpg",
+    "edited_image_name": "images/2403068_edit.jpg",
+    "type": "Comparison",
+    "question": "Can you identify the principal disparity between these two images?",
+    "options": [
+      "A. In the second image, there are streaks of green and yellow light trails and a warm color palette, whereas in the first image, there are pulsing lights and clear colors.  ",
+      "B. In the second image, there are flickering blue lights and a soft color palette, whereas in the first image, there are steady streaks of white light and contrasting hues.  ",
+      "C. In the second image, there are streaks of blue and yellow light trails and a vibrant color palette, whereas in the first image, there are dimly blinking lights and muted colors.  ",
+      "D. In the second image, there are streaks of blue and white light trails and a cool color palette, whereas in the first image, there are quickly blinking lights and blurry colors."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/2402006.jpg",
+    "edited_image_name": "images/2402006_edit.jpg",
+    "type": "Comparison",
+    "question": "What distinguishes one image from the other?",
+    "options": [
+      "A. In the second image, the skier is wearing a blue suit, whereas in the first image, the skier is wearing a red jacket and red pants.",
+      "B. In the second image, the skier is wearing a red jacket, whereas in the first image, the skier is wearing a blue shirt and blue suit.",
+      "C. In the second image, the skier’s shirt is blue, whereas in the first image, the skier’s shirt is green with red pants.",
+      "D. In the second image, the skier is wearing a blue jacket, whereas in the first image, the skier is wearing a red shirt and red suit."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/test_00667.jpg",
+    "edited_image_name": "images/test_00667_edited.jpg",
+    "type": "Universality",
+    "question": "What distinguishes one image from the other?",
+    "options": [
+      "A. In the second image, the bark is textured and dark-colored, and the foliage is dry and sparse, whereas in the first image, the bark is smooth and light-colored, and the foliage is lush and green.  ",
+      "B. In the second image, the bark is rough and darker in tone, and the foliage is vibrant and dense, whereas in the first image, the bark is smooth and lighter in tone, and the foliage is sparse.  ",
+      "C. In the second image, the bark appears faded, but with intricate patterns, and the foliage is sparse and greenish-yellow, whereas in the first image, the bark is smooth and light-colored, and the foliage is dense and bright green.  ",
+      "D. In the second image, the bark is textured and light-colored, and the foliage is lush and green, whereas in the first image, the bark is faded and the foliage is sparse."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/test_01025.jpg",
+    "edited_image_name": "images/test_01025_edited.jpg",
+    "type": "Part Relation",
+    "question": "What distinguishes one image from the other?",
+    "options": [
+      "A. In the first image, no text or specific shapes are discernible in the reflections, whereas in the second image, the reflection includes black text and a white rectangular shape.",
+      "B. In the first image, the reflection includes black text and a gray rectangular shape, whereas in the second image, no text or specific shapes are discernible in the reflections.",
+      "C. In the second image, no text or specific shapes are discernible in the reflections, whereas in the first image, the reflection includes black text and a white rectangular shape.",
+      "D. In the second image, the reflection includes black text and a white circular shape, whereas in the first image, no text or specific shapes are discernible in the reflections."
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/test_01456.jpg",
+    "edited_image_name": "images/test_01456_edited.jpg",
+    "type": "Counting",
+    "question": "What is the primary difference between the two images?",
+    "options": [
+      "A. In the second image, both cars in the background are explicitly described, whereas in the first image, only one car is mentioned briefly.  ",
+      "B. In the second image, there is only one car in the background, whereas in the first image, a second car is described in detail.",
+      "C. In the second image, the background includes two cars, whereas the first image describes only one car in detail.  ",
+      "D. In the second image, there is no mention of cars in the background, whereas the first image highlights a single car in detail.  "
+    ],
+    "answer": "B"
+  },
+  {
+    "image_name": "images/test_01743.jpg",
+    "edited_image_name": "images/test_01743_edited.jpg",
+    "type": "Action Relation",
+    "question": "How do these two images primarily differ from each other?",
+    "options": [
+      "A. In the second image, the convertible top is slightly tilted down, whereas in the first image, the convertible top is perfectly horizontal.",
+      "B. In the second image, the convertible top is removed entirely, whereas in the first image, the convertible top is attached but raised.",
+      "C. In the second image, the convertible top is partially open, whereas in the first image, the convertible top is fully closed.",
+      "D. In the second image, the convertible top is down, whereas in the first image, the convertible top is up."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/test_02097.jpg",
+    "edited_image_name": "images/test_02097_edited.jpg",
+    "type": "Part Relation",
+    "question": "How do these two images primarily differ from each other?",
+    "options": [
+      "A. In the second image, the light fixtures are frosted glass with decorative designs and screws, whereas in the first image, the light fixtures feature labels but no added decorative designs.",
+      "B. In the second image, the light fixtures have decorative designs, labels, and screws, whereas in the first image, the light fixtures are plain frosted glass without any additional features.",
+      "C. In the second image, the light fixtures are plain frosted glass with screws, whereas in the first image, the light fixtures are frosted glass with labels and decorative designs.",
+      "D. In the second image, the light fixtures are plain frosted glass without any additional features, whereas in the first image, the light fixtures have decorative designs, labels, and screws."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/test_02190.jpg",
+    "edited_image_name": "images/test_02190_edited.jpg",
+    "type": "Object",
+    "question": "What distinguishes one image from the other?",
+    "options": [
+      "A. In the second image, a green plant is visible at the very bottom, whereas the first image does not include this detail.",
+      "B. In the second image, a green shrub is visible at the very bottom, whereas the first image does not include this detail.",
+      "C. In the second image, a green plant is visible at the very top, whereas the first image does not include this detail.",
+      "D. In the second image, a green plant is visible slightly to the left of the center, whereas the first image does not include this detail."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/test_02267.jpg",
+    "edited_image_name": "images/test_02267_edited.jpg",
+    "type": "Counting",
+    "question": "What distinguishes one image from the other?",
+    "options": [
+      "A. In the second image, both the number of controllers and their button configurations are identical but appear rearranged compared to the first image.",
+      "B. In the second image, the number of controllers is the same, but the button configurations are reversed compared to the first image.",
+      "C. In the second image, the number of controllers is different, but their button configurations remain identical to the first image.",
+      "D. In the second image, the number of controllers and their button configurations are different compared to the first image."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/test_02463.jpg",
+    "edited_image_name": "images/test_02463_edited.jpg",
+    "type": "Universality",
+    "question": "What is the primary difference between the two images?",
+    "options": [
+      "A. In the second image, there is a large parking lot that is completely empty, whereas in the first image, there are multiple parking lots with a few scattered cars and a straight road.",
+      "B. In the second image, there is a large parking lot with many cars and a straight road, whereas in the first image, there are multiple parking lots with just a few cars and no road visible.",
+      "C. In the second image, there is a large parking lot with a few visible vehicles, whereas in the first image, there are multiple parking lots filled with cars and a windy road.",
+      "D. In the second image, there are multiple parking lots filled with cars and a windy road, whereas in the first image, there is a single large parking lot with a few visible vehicles."
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/test_03604.jpg",
+    "edited_image_name": "images/test_03604_edited.jpg",
+    "type": "Object",
+    "question": "What's the key difference between these two pictures?",
+    "options": [
+      "A. In the second image, the reflection of a parked small black SUV is absent, whereas in the first image, it is present.",
+      "B. In the second image, the reflection of a moving small black SUV is absent, whereas in the first image, it is present.",
+      "C. In the second image, the reflection of a parked small black sedan is absent, whereas in the first image, it is present.",
+      "D. In the second image, the reflection of a parked large black SUV is absent, whereas in the first image, it is present."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/test_03886.jpg",
+    "edited_image_name": "images/test_03886_edited.jpg",
+    "type": "Object",
+    "question": "What is the primary difference between the two images?",
+    "options": [
+      "A. In the second image, the wooden sign with \"ROADRUNNER TRAIL\" and the work lights are absent, whereas they are present in the first image.",
+      "B. In the second image, the wooden sign with \"ROADRUNNER TRAIL\" and the work lights are dimmed, whereas they are brightly lit in the first image.",
+      "C. In the second image, the wooden sign with \"ROADRUNNER TRAIL\" has been replaced with a different sign, while the work lights remain present in both images.",
+      "D. In the second image, the wooden sign with \"ROADRUNNER TRAIL\" is present, but the work lights are absent, whereas both are present in the first image."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/test_03908.jpg",
+    "edited_image_name": "images/test_03908_edited.jpg",
+    "type": "Object",
+    "question": "What is the fundamental difference you can see between these two visuals?",
+    "options": [
+      "A. In the second image, there is a gray cat with a toy mouse near the top right corner, whereas the first image includes a tabby cat with a white paw and a striped gray tail.",
+      "B. In the second image, there is a gray cat with a toy mouse near the bottom right corner, whereas the first image includes a tabby cat with a white paw and a striped tail that is brown rather than black.",
+      "C. In the second image, there is a gray cat sitting beside a toy mouse near the bottom left corner, whereas the first image includes a tabby cat with black-striped paws and a white tail.",
+      "D. In the second image, there is a gray cat with a toy mouse near the bottom right corner, whereas the first image includes a tabby cat with a white paw and a black-striped tail."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/test_04034.jpg",
+    "edited_image_name": "images/test_04034_edited.jpg",
+    "type": "Counting",
+    "question": "What's the key difference between these two pictures?",
+    "options": [
+      "A. In the second image, there is only an animal skeleton on the ground, while the first image includes additional human skeletons alongside the animal skeleton.",
+      "B. In the second image, there are no skeletons mentioned at all, whereas the first image includes both human skeletons and an animal skeleton on the ground.",
+      "C. In the second image, additional skeletons on the ground are present, but the animal skeleton mentioned in the first image is still missing.",
+      "D. In the second image, there are no additional skeletons on the ground or an animal skeleton, whereas these elements are mentioned in the first image."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/test_04079.jpg",
+    "edited_image_name": "images/test_04079_edited.jpg",
+    "type": "Object",
+    "question": "What is the fundamental difference you can see between these two visuals?",
+    "options": [
+      "A. In the second image, a butterfly is visible on one of the leaves, whereas in the first image, no butterfly is present.  ",
+      "B. In the first image, a bee is visible on one of the leaves, whereas in the second image, the bee is absent.  ",
+      "C. In the second image, a bee is visible on one of the leaves, whereas in the first image, no bee is present.",
+      "D. In the second image, a bee is hovering near the leaves, whereas in the first image, no bee is visible near the leaves.  "
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/test_04389.jpg",
+    "edited_image_name": "images/test_04389_edited.jpg",
+    "type": "Action Relation",
+    "question": "What's the key difference between these two pictures?",
+    "options": [
+      "A. In the second image, a black bird is perched on the edge of the roof, whereas this detail is not mentioned in the first image.",
+      "B. In the second image, a black bird is perched on the tree next to the wall, whereas this detail is not mentioned in the first image.",
+      "C. In the second image, a black bird is flying past the wall, whereas this detail is not mentioned in the first image.",
+      "D. In the second image, a black bird is perched on the wall, whereas this detail is not mentioned in the first image."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/test_04848.jpg",
+    "edited_image_name": "images/test_04848_edited.jpg",
+    "type": "Object",
+    "question": "What's the most notable variation between these two pictures?",
+    "options": [
+      "A. In the second image, a bird is perched atop the nest, whereas this detail is not mentioned in the first image.",
+      "B. In the second image, a bird is flying above the nest, whereas this detail is not mentioned in the first image.",
+      "C. In the second image, a bird is perched atop the nest, whereas in the first image, the nest is empty with no mention of a bird.",
+      "D. In the second image, a bird is perched beside the nest, whereas this detail is not mentioned in the first image."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/test_04905.jpg",
+    "edited_image_name": "images/test_04905_edited.jpg",
+    "type": "Comparison",
+    "question": "What is the primary difference between the two images?",
+    "options": [
+      "A. In the second image, the lighting shifts to a warm, golden tone, with the owl illuminated by soft ambient light, whereas in the first image, the lighting is noticeably cooler and more neutral, casting the entire scene in pale shadows.",
+      "B. In the second image, the lighting and contrast are slightly dimmer, with the owl blending into a softer shadowed background, whereas in the first image, the scene features harsh, bright highlights that contrast sharply.",
+      "C. In the second image, the lighting and contrast are significantly darker, with the owl silhouetted against a dim background, whereas in the first image, the scene is brightly lit and full of vibrant colors.",
+      "D. In the second image, the lighting and contrast are significantly brighter, with the owl silhouetted against a bright background, whereas in the first image, the scene is heavily cast in shadow and dark."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/test_04989.jpg",
+    "edited_image_name": "images/test_04989_edited.jpg",
+    "type": "Part Relation",
+    "question": "Can you identify the principal disparity between these two images?",
+    "options": [
+      "A. In the second image, the large two-pronged gold wing and cannon balustrades are absent, whereas they are present in the first image.",
+      "B. In the second image, the large single-pronged gold wing and cannon balustrades are absent, whereas they are present in the first image.",
+      "C. In the second image, the large two-pronged gold wing and cannon balustrades are present, whereas they are absent in the first image.",
+      "D. In the second image, the large two-pronged silver wing and cannon balustrades are absent, whereas they are present in the first image."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/train_00136.jpg",
+    "edited_image_name": "images/train_00136_edited.jpg",
+    "type": "Object",
+    "question": "How do these two images primarily differ from each other?",
+    "options": [
+      "A. In the second image, a person is present near the barn's entrance, whereas in the first image, an animal is mentioned instead.",
+      "B. In the second image, a person is present near the barn's entrance, whereas in the first image, the person is inside the barn.",
+      "C. In the second image, a person is present near the barn's entrance, whereas in the first image, no person is mentioned.",
+      "D. In the second image, a person is near the barn's entrance, whereas in the first image, the person is standing farther away from the barn."
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/2410987.jpg",
+    "edited_image_name": "images/2410987_edit.jpg",
+    "type": "Universality",
+    "question": "Can you identify the principal disparity between these two images?",
+    "options": [
+      "A. In the second image, the sand has a soft yellow hue, whereas in the first image, the sand is vibrant and reflective, resembling copper.",
+      "B. In the second image, the sand has a rich yellow-orange hue, whereas in the first image, the sand is described as smooth and pale, resembling white marble.",
+      "C. In the second image, the sand has a dull gray hue, whereas in the first image, the sand is shiny and bright, resembling gold.",
+      "D. In the second image, the sand has a rich yellow-orange hue, whereas in the first image, the sand is shiny and bright, resembling silver."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/2408828.jpg",
+    "edited_image_name": "images/2408828_edit.jpg",
+    "type": "Comparison",
+    "question": "What is the main distinction between these two images?",
+    "options": [
+      "A. In the second image, the vase is matte blue and resembles an apple, whereas in the first image, it was shiny red and cylindrical.",
+      "B. In the second image, the vase is shiny and blue resembling an apple, whereas in the first image, it was matte red and cylindrical.",
+      "C. In the second image, the vase is matte blue and cylindrical, whereas in the first image, it was shiny red resembling an apple.",
+      "D. In the second image, the vase is shiny red and cylindrical, whereas in the first image, it was matte blue resembling an apple."
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/2408895.jpg",
+    "edited_image_name": "images/2408895_edit.jpg",
+    "type": "Scene",
+    "question": "What is the main distinction between these two images?",
+    "options": [
+      "A. In the second image, the sky is overcast with dark gray clouds, whereas in the first image, the sky is muted with soft hints of lavender and peach.",
+      "B. In the second image, the sky is sunny with a faint golden hue, whereas in the first image, the sky is overcast and resembles cotton candy and bedsheets.",
+      "C. In the second image, the sky is overcast with dark gray clouds, whereas in the first image, the sky is vibrant and resembles cotton candy and bedsheets.",
+      "D. In the second image, the sky is overcast with light gray clouds, whereas in the first image, the sky is vibrant and resembles rippling ocean waves."
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/2407316.jpg",
+    "edited_image_name": "images/2407316_edit.jpg",
+    "type": "Comparison",
+    "question": "What's the key difference between these two pictures?",
+    "options": [
+      "A. In the first image, the water is entirely golden, whereas in the second image, the water appears entirely blue.  ",
+      "B. In the second image, the water has a mix of blue and golden hues, whereas in the first image, the water has a golden hue.",
+      "C. In the first image, the water has a mix of blue and golden hues, whereas in the second image, the water has a golden hue.  ",
+      "D. In the second image, the water has a golden hue, whereas in the first image, the water has a more vibrant blue hue.  "
+    ],
+    "answer": "B"
+  },
+  {
+    "image_name": "images/2407097.jpg",
+    "edited_image_name": "images/2407097_edit.jpg",
+    "type": "Action Relation",
+    "question": "What's the most notable variation between these two pictures?",
+    "options": [
+      "A. In the second image, the planes are arranged in a staggered formation with nearly parallel wings, whereas the first image does not specify this alignment.",
+      "B. In the second image, the planes maintain a staggered formation with overlapping wings, while the first image shows a perfectly side-by-side alignment instead.",
+      "C. In the second image, the planes are arranged in a staggered formation but with wings tilted at different vertical angles, whereas the first image depicts uniformly tilted wings.",
+      "D. In the second image, the planes are arranged in a staggered formation with wings pointing outward slightly diagonally, whereas the first image does not specify this configuration."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/2363255.jpg",
+    "edited_image_name": "images/2363255_edit.jpg",
+    "type": "Part Relation",
+    "question": "What's the most significant contrast between these two photos?",
+    "options": [
+      "A. In the second image, the bed has a pink blanket and one pillow with the same pattern, whereas in the first image, the bed has a white blanket and two colorful blankets.",
+      "B. In the second image, the bed has a pink blanket and no pillows, whereas in the first image, the bed has a white blanket with a colorful blanket and one patterned pillow.",
+      "C. In the second image, the bed has a pink blanket and two pillows with different patterns, whereas in the first image, the bed has a white blanket and a colorful blanket.",
+      "D. In the second image, the bed has a pink blanket and two pillows with identical patterns, whereas in the first image, the bed has a white blanket and a patterned blanket."
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/2363237.jpg",
+    "edited_image_name": "images/2363237_edit.jpg",
+    "type": "Scene",
+    "question": "What's the most notable variation between these two pictures?",
+    "options": [
+      "A. In the second image, the background consists of orange and brown structures with a red metal framework, whereas in the first image, the background was composed of blue buildings.",
+      "B. In the second image, the background consists of orange and brown buildings with a metal framework, whereas in the first image, the background was composed of blue structures with metallic accents.",
+      "C. In the second image, the background consists of orange and beige structures with a red metallic dome, whereas in the first image, the background was composed of blue buildings with white rooftops.",
+      "D. In the second image, the background consists of reddish-brown buildings with intricate brick patterns, whereas in the first image, the background was composed of blue skyscrapers with glass windows."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/2363200.jpg",
+    "edited_image_name": "images/2363200_edit.jpg",
+    "type": "Part Relation",
+    "question": "What's the most notable variation between these two pictures?",
+    "options": [
+      "A. In the second image, the orange is sliced into sections and the apples have red patches, emphasizing the relationship between the whole and sliced parts, whereas in the first image, the orange has an orange-and-white peel and the apple has a red spot.",
+      "B. In the second image, the orange is sliced into quarters and the apples feature yellow spots, emphasizing contrasts in texture and color, whereas in the first image, the orange has an orange-and-black peel and the apple has a pink spot.  ",
+      "C. In the second image, the orange segments are arranged in a circular pattern while the apples are solid red, emphasizing the relationship between segmentation and uniformity, whereas in the first image, the orange has a completely orange peel and the apple has red streaks.  ",
+      "D. In the second image, the orange is sliced into sections and the apples have green patches, emphasizing the relationship between the whole and sliced parts, whereas in the first image, the orange has an orange peel and the apple has a red patch.  "
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/2401573.jpg",
+    "edited_image_name": "images/2401573_edit.jpg",
+    "type": "Universality",
+    "question": "What is the primary difference between the two images?",
+    "options": [
+      "A. In the second image, the bus is green with a teal sticker, whereas in the first image, the bus is orange with a blue sticker.",
+      "B. In the second image, the bus is orange with a blue sticker, whereas in the first image, the bus is green with a teal sticker.",
+      "C. In the second image, the bus is orange with a blue sticker, whereas in the first image, the bus is green with a teal sticker.",
+      "D. In the second image, the bus is orange with a teal sticker, whereas in the first image, the bus is green with a blue sticker."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/2401074.jpg",
+    "edited_image_name": "images/2401074_edit.jpg",
+    "type": "Action Relation",
+    "question": "What is the fundamental difference you can see between these two visuals?",
+    "options": [
+      "A. In the second image, there is a single neatly made bed, whereas in the first image, the bed is unmade but accompanied by a second bed that is neatly made.",
+      "B. In the second image, there are two neatly made beds, whereas in the first image, there is a single unmade bed.",
+      "C. In the second image, there is one neatly made bed, whereas in the first image, there are two unmade beds.",
+      "D. In the second image, there are two unmade beds, whereas in the first image, there is one neatly made bed."
+    ],
+    "answer": "B"
+  },
+  {
+    "image_name": "images/2400718.jpg",
+    "edited_image_name": "images/2400718_edit.jpg",
+    "type": "Attribute",
+    "question": "What's the most significant contrast between these two photos?",
+    "options": [
+      "A. In the second image, the surfboard color is red, whereas in the first image, the surfboard color was green.",
+      "B. In the second image, the surfboard color is red, whereas in the first image, the surfboard color was yellow.",
+      "C. In the second image, the surfboard color is blue, whereas in the first image, the surfboard color was green.",
+      "D. In the second image, the surfboard color is red, whereas in the first image, the surfboard color was blue."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/2399108.jpg",
+    "edited_image_name": "images/2399108_edit.jpg",
+    "type": "Universality",
+    "question": "What is the main distinction between these two images?",
+    "options": [
+      "A. In the second image, the floor is covered with large beige square tiles, whereas in the first image, the floor has a chocolate-like appearance with intricate designs.  ",
+      "B. In the second image, the floor is covered with large white rectangular tiles, whereas in the first image, the floor has a chocolate-like appearance but no designs.  ",
+      "C. In the second image, the floor is covered with small white square tiles, whereas in the first image, the floor has a chocolate-like appearance with geometric patterns.  ",
+      "D. In the second image, the floor is covered with large white square tiles, whereas in the first image, the floor has a chocolate-like appearance with pretty designs."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/2398547.jpg",
+    "edited_image_name": "images/2398547_edit.jpg",
+    "type": "Action Relation",
+    "question": "What's the key difference between these two pictures?",
+    "options": [
+      "A. In the second image, one elephant is slightly behind the other on its left side, whereas in the first image, one elephant is leading the way with the other following closely behind.",
+      "B. In the second image, one elephant is leading the way with the other following closely on its left side, whereas in the first image, one elephant is slightly behind the other.",
+      "C. In the second image, the elephants are positioned parallel to one another, whereas in the first image, one elephant is leading with the other trailing at a greater distance.",
+      "D. In the second image, one elephant is slightly in front of the other on its right side, whereas in the first image, the elephants are side by side."
+    ],
+    "answer": "B"
+  },
+  {
+    "image_name": "images/2398343.jpg",
+    "edited_image_name": "images/2398343_edit.jpg",
+    "type": "Part Relation",
+    "question": "What is the main distinction between these two images?",
+    "options": [
+      "A. In the second image, the table has a green plant and additional flowers, whereas in the first image, the table is adorned with white flowers and no green plant.",
+      "B. In the second image, the table has white flowers and no green plant, whereas in the first image, the table is adorned with a green plant and additional flowers.",
+      "C. In the second image, the table is adorned with flowers and a green plant, whereas in the first image, the table has a green plant with white flowers and no additional flowers.",
+      "D. In the second image, the table has a green plant with white flowers and no additional flowers, whereas in the first image, the table is adorned with flowers and a green plant."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/2380274.jpg",
+    "edited_image_name": "images/2380274_edit.jpg",
+    "type": "Attribute",
+    "question": "What distinguishes one image from the other?",
+    "options": [
+      "A. In the second image, the clouds have a soft pinkish tint and are part of a mix of blue and purple hues in the sky, whereas in the first image, the clouds are described as fluffy and pretty pink shapes.",
+      "B. In the second image, the clouds have a soft pinkish tint and blend with orange and purple tones in the sky, while in the first image, the clouds are described as soft blue shapes with a touch of pink.",
+      "C. In the second image, the clouds are described as sharp and vibrant pink forms against a purple sky, whereas in the first image, they are fluffy shapes with hints of blue and pink hues.",
+      "D. In the second image, the clouds appear fluffy and pretty pink shapes, whereas in the first image, they have a soft pinkish tint and are part of a mix of blue and purple hues in the sky."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/2379116.jpg",
+    "edited_image_name": "images/2379116_edit.jpg",
+    "type": "Action Relation",
+    "question": "What distinguishes one image from the other?",
+    "options": [
+      "A. In the second image, the airplane's shape and orientation relative to the clouds appear different compared to the first image.  ",
+      "B. In the second image, the airplane's distance from the clouds is described differently compared to the first image.  ",
+      "C. In the second image, the airplane's position relative to the clouds is described differently compared to the first image.",
+      "D. In the second image, the color of the airplane as seen against the clouds is described differently compared to the first image.  "
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/2378807.jpg",
+    "edited_image_name": "images/2378807_edit.jpg",
+    "type": "Part Relation",
+    "question": "How do these two images primarily differ from each other?",
+    "options": [
+      "A. In the second image, the fern is beside the bathtub on the floor, whereas in the first image, the fern was on top of the sink.",
+      "B. In the second image, the fern is next to the sink on the counter, whereas in the first image, the fern was beside the bathtub on the floor.",
+      "C. In the second image, the fern is on top of the sink, whereas in the first image, the fern was behind the bathtub on the floor.",
+      "D. In the second image, the fern is beside the bathtub on a small stool, whereas in the first image, the fern was hanging on the wall above the sink."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/2375249.jpg",
+    "edited_image_name": "images/2375249_edit.jpg",
+    "type": "Attribute",
+    "question": "What is the main distinction between these two images?",
+    "options": [
+      "A. In the second image, the ground is described as having a uniform reddish-brown, textured surface with no dirty areas, whereas in the first image, the ground texture and color were chocolate-like and dirty.",
+      "B. In the second image, the ground is described as having a uniform reddish-brown, textured surface with dirty areas, whereas in the first image, the ground texture and color were chocolate-like and clean.",
+      "C. In the second image, the ground is described as having a reddish-brown surface with a mix of textures and dirty areas, whereas in the first image, the ground texture and color were described as a uniform chocolate-like surface with no dirty areas.",
+      "D. In the second image, the ground is described as having a uniform chocolate-like and dirty texture, whereas in the first image, the ground texture and color were reddish-brown and textured with no dirty areas."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/2165.jpg",
+    "edited_image_name": "images/2165_edit.jpg",
+    "type": "Action Relation",
+    "question": "How do these two images primarily differ from each other?",
+    "options": [
+      "A. In the second image, the baskets are placed next to the sink and farther away from the table, whereas in the first image, they are positioned directly under the kitchen table.  ",
+      "B. In the second image, the baskets are placed to the right of the sink and near the table, whereas in the first image, they are positioned close to the kitchen table.",
+      "C. In the second image, the baskets are positioned to the left of the table and near the center of the kitchen, whereas in the first image, they are placed to the right of the sink and further away from the table.  ",
+      "D. In the second image, the baskets are placed closer to the kitchen table and slightly to the left of the sink, whereas in the first image, they are positioned directly in front of the sink.  "
+    ],
+    "answer": "B"
+  },
+  {
+    "image_name": "images/qual_dev_00000.jpg",
+    "edited_image_name": "images/qual_dev_00000_edited.jpg",
+    "type": "Action Relation",
+    "question": "What is the primary difference between the two images?",
+    "options": [
+      "A. Compared to the first image, in the second image the penguin tilts its head slightly more to the right.",
+      "B. Compared to the first image, in the second image the dog looks directly at the camera instead of to its right.",
+      "C. Compared to the first image, in the second image the dog’s helmet sits lower on its head.",
+      "D. Compared to the first image, in the second image the dog moves closer to the penguin."
+    ],
+    "answer": "B"
+  },
+  {
+    "image_name": "images/qual_dev_00001.jpg",
+    "edited_image_name": "images/qual_dev_00001_edited.jpg",
+    "type": "Comparison",
+    "question": "What is the primary difference between the two images?",
+    "options": [
+      "A. In the second image, the yellow Spirit plane has moved slightly forward compared to its position in the first image.",
+      "B. Compared to the first image, in the second image, the yellow airplane has turned around to left.",
+      "C. The yellow airplane has remained stationary between the two images.",
+      "D. The yellow airplane changed color to white in the second image."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/qual_dev_00087.jpg",
+    "edited_image_name": "images/qual_dev_00087_edited.jpg",
+    "type": "Universality",
+    "question": "What is the primary difference between the two images?",
+    "options": [
+      "A.The paint on the sign has peeled more severely in the second image, making the text almost unreadable.",
+      "B.The second image shows a cleaner and newly repainted sign compared to the first image.",
+      "C.The word “SIDEWALK” in the second image has become misspelled.",
+      "D.In the second image, an extra letter ‘S’ appears in the top line, altering the intended message."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/qual_dev_00096.jpg",
+    "edited_image_name": "images/qual_dev_00096_edited.jpg",
+    "type": "Universality",
+    "question": "What is the primary difference between the two images?",
+    "options": [
+      "A. The number of windows on the building has increased.",
+      "B. The sky has noticeably more clouds in the second image.",
+      "C. The entrance of the building has been redesigned to include an additional doorway.",
+      "D. The exterior color of the building has changed to a darker tone."
+    ],
+    "answer": "B"
+  },
+  {
+    "image_name": "images/qual_dev_00004.jpg",
+    "edited_image_name": "images/qual_dev_00004_edited.jpg",
+    "type": "Part Relation",
+    "question": "What is the primary difference between the two images?",
+    "options": [
+      "A. The license plate has been removed in the second image.",
+      "B. The rooftop luggage rack has been removed, and the car appears to have cleaner paint. ",
+      "C. The rear window has been replaced with a tinted version.",
+      "D. The door handle has been shifted forward slightly."
+    ],
+    "answer": "B"
+  },
+  {
+    "image_name": "images/qual_test_00019.jpg",
+    "edited_image_name": "images/qual_test_00019_edited.jpg",
+    "type": "Action Relation",
+    "question": "What is the primary difference between the two images?",
+    "options": [
+      "A. The butterfly is facing the opposite direction.",
+      "B. The flowers in the background have changed color.",
+      "C. The butterfly has a different wing pattern.",
+      "D. The number of butterflies has increased."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/qual_test_00048.jpg",
+    "edited_image_name": "images/qual_test_00048_edited.jpg",
+    "type": "Part Relation",
+    "question": "What is the primary difference between the two images?",
+    "options": [
+      "A. The person in the mural is holding more flowers, and the flowers are larger in the second image. ",
+      "B. The background buildings have changed their design in the second image.",
+      "C. The colors of the mural have been altered significantly in the second image.",
+      "D. The person in the mural has been replaced with a different figure in the second image."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/qual_test_00058.jpg",
+    "edited_image_name": "images/qual_test_00058_edited.jpg",
+    "type": "Universality",
+    "question": "What is the primary difference between the two images?",
+    "options": [
+      "A.The tow vehicle in front of the airplane is missing in the second image, and the background buildings have disappeared. ",
+      "B.The airplane’s logo changes between the first and second images.",
+      "C.The airplane has a different tail design in the second image.",
+      "D.The clouds in the sky have completely disappeared in the second image."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/qual_test_00059.jpg",
+    "edited_image_name": "images/qual_test_00059_edited.jpg",
+    "type": "Comparison",
+    "question": "What is the primary difference between the two images?",
+    "options": [
+      "A. The second image shows a rightward shift in perspective.",
+      "B. The piano’s keys are a different color in the second image.",
+      "C. The teddy bear is playing a different piano in the second image.",
+      "D. The musical sheet on the piano is completely removed in the second image."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/qual_test_00064.jpg",
+    "edited_image_name": "images/qual_test_00064_edited.jpg",
+    "type": "Part Relation",
+    "question": "What is the primary difference between the two images?",
+    "options": [
+      "A. The second image is missing a cone in front of the inflatable figure, and the text on the banner is obscured.",
+      "B. The inflatable figure in the second image has a different pose.",
+      "C. The storefront sign is missing in the second image.",
+      "D. The trees in the background are completely removed in the second image."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/498168.jpg",
+    "edited_image_name": "images/498168_edit.jpg",
+    "type": "Action Relation",
+    "question": "What distinguishes one image from the other?",
+    "options": [
+      "A. In the second image, the coffee table's position relative to the couch is different compared to the first image.",
+      "B. In the second image, the coffee table's size relative to the dogs is different compared to the first image.",
+      "C. In the second image, the coffee table's position relative to the dogs is different compared to the first image.",
+      "D. In the second image, the dogs’ positions relative to each other are different compared to the first image."
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/1592056.jpg",
+    "edited_image_name": "images/1592056_edit.jpg",
+    "type": "Universality",
+    "question": "Can you identify the principal disparity between these two images?",
+    "options": [
+      "A. In the second image, the walls are described as clean and white, whereas in the first image, the wall is clean but slightly cracked.",
+      "B. In the second image, the walls are clean and white, whereas in the first image, the wall is described as slightly dusty but otherwise well-maintained.",
+      "C. In the second image, the walls are clean and white, whereas in the first image, the wall is described as dirty and messy.",
+      "D. In the second image, the walls are clean and white, whereas in the first image, the wall is described as clean but painted a darker shade."
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/test_00212.jpg",
+    "edited_image_name": "images/test_00212_edited.jpg",
+    "type": "Universality",
+    "question": "What distinguishes one image from the other?",
+    "options": [
+      "A. In the second image, there are eight motorcycles, whereas in the first image, there are at least seven.",
+      "B. In the second image, there are at least eight motorcycles, whereas in the first image, there are five.",
+      "C. In the second image, there are exactly seven motorcycles, whereas in the first image, there are six.",
+      "D. In the second image, there are at least eight motorcycles, whereas in the first image, there are six."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/test_04327.jpg",
+    "edited_image_name": "images/test_04327_edited.jpg",
+    "type": "Object",
+    "question": "How do these two images primarily differ from each other?",
+    "options": [
+      "A. In the second image, a bird is perched on a statue next to the gargoyle, whereas in the first image, only the gargoyle is visible.",
+      "B. In the first image, the bird is perched on a tree nearby, whereas in the second image, it has moved to perch on the gargoyle.",
+      "C. In the second image, a bird is perched on the gargoyle, whereas in the first image, this detail is not mentioned.",
+      "D. In the second image, the gargoyle is replaced by a bird, whereas in the first image, this detail is not mentioned."
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/test_04605.jpg",
+    "edited_image_name": "images/test_04605_edited.jpg",
+    "type": "Spatial Relation",
+    "question": "What's the most notable variation between these two pictures?",
+    "options": [
+      "A. In the second image, the red rail barrier is positioned to the right of the horse, whereas in the first image, it is to the left.",
+      "B. In the second image, the red rail barrier is positioned farther away from the horse, whereas in the first image, it is positioned closer.",
+      "C. In the second image, the red rail barrier is positioned behind the horse, whereas in the first image, it is positioned in front.",
+      "D. In the second image, the red rail barrier is positioned to the left of the horse, whereas in the first image, it is to the right."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/2410200.jpg",
+    "edited_image_name": "images/2410200_edit.jpg",
+    "type": "Spatial Relation",
+    "question": "What's the most significant contrast between these two photos?",
+    "options": [
+      "A. In the second image, the lamp's position relative to the bedside table is different, but its position relative to the bed remains unchanged compared to the first image.",
+      "B. In the second image, the lamp's position relative to the bedside table and the bed is different compared to the first image.",
+      "C. In the second image, the lamp's position relative to the bedside table and the wall is different compared to the first image.",
+      "D. In the second image, the lamp's position relative to the bed is different, but its position relative to the bedside table remains the same as in the first image."
+    ],
+    "answer": "B"
+  },
+  {
+    "image_name": "images/2408431.jpg",
+    "edited_image_name": "images/2408431_edit.jpg",
+    "type": "Spatial Relation",
+    "question": "What is the primary difference between the two images?",
+    "options": [
+      "A. In the second image, the person’s position relative to their surroundings has changed compared to the first image.",
+      "B. In the second image, the person's position relative to the center of the image has changed compared to the first image.",
+      "C. In the second image, the person’s position relative to the edges of the image has changed compared to the first image.",
+      "D. In the second image, the person’s distance from the center of the image has changed compared to the first image."
+    ],
+    "answer": "B"
+  },
+  {
+    "image_name": "images/2356436.jpg",
+    "edited_image_name": "images/2356436_edit.jpg",
+    "type": "Attribute",
+    "question": "What distinguishes one image from the other?",
+    "options": [
+      "A. In the second image, the blanket has green and yellow stripes with a matte texture, whereas in the first image, the blanket had a blue stripe and a shiny appearance.",
+      "B. In the second image, the blanket has blue and white stripes with a shiny appearance, whereas in the first image, the blanket had a green stripe and a matte texture.",
+      "C. In the second image, the blanket has blue and white stripes with a matte texture, whereas in the first image, the blanket had a green stripe and a shiny appearance.",
+      "D. In the second image, the blanket has blue and green stripes with a shiny appearance, whereas in the first image, the blanket had a white stripe and a matte texture."
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/2356401.jpg",
+    "edited_image_name": "images/2356401_edit.jpg",
+    "type": "Spatial Relation",
+    "question": "How do these two images primarily differ from each other?",
+    "options": [
+      "A. In the second image, the bathtub is parallel to the open toilet bowl and closer in spatial arrangement, whereas in the first image, the bathtub is perpendicular and recedes into the background.",
+      "B. In the second image, the bathtub is positioned closer and appears larger in relation to the open toilet bowl, whereas in the first image, it is slightly farther away and recedes into the background.",
+      "C. In the second image, the bathtub is positioned further away and recedes into the background, whereas in the first image, it is closer in spatial arrangement to the open toilet bowl.",
+      "D. In the second image, the spatial arrangement shows the bathtub closer to the foreground and positioned directly beside the open toilet bowl, whereas in the first image, the bathtub is farther away and more separated from the toilet bowl."
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/2355458.jpg",
+    "edited_image_name": "images/2355458_edit.jpg",
+    "type": "Attribute",
+    "question": "What's the key difference between these two pictures?",
+    "options": [
+      "A. In the second image, the rendering is in sepia tone, whereas in the first image, it is in black-and-white.",
+      "B. In the second image, the rendering is in sepia tone, whereas in the first image, it is in grayscale.",
+      "C. In the second image, the rendering is tinted with a yellow hue, whereas in the first image, it is monochrome with shades of gray.",
+      "D. In the second image, the rendering is in grayscale, whereas in the first image, it is in sepia tone."
+    ],
+    "answer": "B"
+  },
+  {
+    "image_name": "images/2354838.jpg",
+    "edited_image_name": "images/2354838_edit.jpg",
+    "type": "Attribute",
+    "question": "What is the primary difference between the two images?",
+    "options": [
+      "A. In the second image, the upper cabinets are wooden with a warm, reddish-brown tone, whereas in the first image, the upper cabinets are beige and old.",
+      "B. In the second image, the upper cabinets are wooden with a dark, chocolate-brown tone, whereas in the first image, the upper cabinets are white and slightly damaged.",
+      "C. In the second image, the upper cabinets are wooden with a warm, medium-brown tone, whereas in the first image, the upper cabinets are white and old.",
+      "D. In the second image, the upper cabinets are wooden and painted with a light-brown finish, whereas in the first image, the upper cabinets are white and brand new."
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/2354566.jpg",
+    "edited_image_name": "images/2354566_edit.jpg",
+    "type": "Counting",
+    "question": "What's the key difference between these two pictures?",
+    "options": [
+      "A. In the second image, the number of planes is different compared to the first image, but the number of contrails of each color remains the same.  ",
+      "B. In the second image, the number of planes and the number of contrails of each color are different compared to the first image.",
+      "C. In the second image, the number of planes and the number of contrails of each color are identical to the first image, but their positions are swapped.  ",
+      "D. In the second image, the number of contrails of each color is different, but the total number of planes remains unchanged compared to the first image.  "
+    ],
+    "answer": "B"
+  },
+  {
+    "image_name": "images/2354194.jpg",
+    "edited_image_name": "images/2354194_edit.jpg",
+    "type": "Spatial Relation",
+    "question": "What is the fundamental difference you can see between these two visuals?",
+    "options": [
+      "A. In the second image, the person is positioned to the left of the net, whereas in the first image, the person was positioned to the right of the net.",
+      "B. In the second image, the person is positioned farther away from the net, whereas in the first image, the person was positioned closer to the net.",
+      "C. In the second image, the person is positioned to the right of the net, whereas in the first image, the person was positioned to the left of the net.",
+      "D. In the second image, the person is positioned in front of the net, whereas in the first image, the person was positioned behind the net."
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/2351865.jpg",
+    "edited_image_name": "images/2351865_edit.jpg",
+    "type": "Attribute",
+    "question": "What distinguishes one image from the other?",
+    "options": [
+      "A. In the second image, the floor is a dark wooden floor with a striped pattern, whereas in the first image, the floor is tiled and light-colored.",
+      "B. In the second image, the floor is a dark wooden floor with a checkered pattern, whereas in the first image, the floor is light-colored wood.",
+      "C. In the second image, the floor is a dark wooden floor with a striped pattern, whereas in the first image, the floor is light-colored wood.",
+      "D. In the second image, the floor is a dark wooden floor with a striped pattern, whereas in the first image, the floor is light-colored wood but has a herringbone pattern."
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/2351745.jpg",
+    "edited_image_name": "images/2351745_edit.jpg",
+    "type": "Attribute",
+    "question": "What is the primary difference between the two images?",
+    "options": [
+      "A. In the second image, the man's suit color appears dark navy, whereas in the first image, the suit color is a very light gray.  ",
+      "B. In the second image, the man's suit color shifts to bright sky blue, whereas in the first image, the suit color is a medium shade of gray.  ",
+      "C. In the second image, the man's suit color changes from black to royal blue, whereas in the first image, the suit color is charcoal gray.  ",
+      "D. In the second image, the man's suit color is light blue, whereas in the first image, the suit color is extremely dark."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/2351585.jpg",
+    "edited_image_name": "images/2351585_edit.jpg",
+    "type": "Attribute",
+    "question": "What distinguishes one image from the other?",
+    "options": [
+      "A. In the second image, the woman's shirt is black, whereas in the first image, her shirt is red.  ",
+      "B. In the second image, the woman's shirt is red, whereas in the first image, her shirt is gray.  ",
+      "C. In the second image, the woman's shirt is red, whereas in the first image, her shirt is dark blue.  ",
+      "D. In the second image, the woman's shirt is red, whereas in the first image, her shirt is black."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/2351293.jpg",
+    "edited_image_name": "images/2351293_edit.jpg",
+    "type": "Scene",
+    "question": "What distinguishes one image from the other?",
+    "options": [
+      "A. In the second image, the road appears dry, whereas in the first image, the road is covered with water.",
+      "B. In the second image, the road appears to be damp, whereas in the first image, the road is clearly flooded with water.",
+      "C. In the second image, the road appears wet, whereas in the first image, the road is covered with mud.",
+      "D. In the first image, the road is dry, whereas in the second image, the road appears to be partially covered with water."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/2349719.jpg",
+    "edited_image_name": "images/2349719_edit.jpg",
+    "type": "Attribute",
+    "question": "What distinguishes one image from the other?",
+    "options": [
+      "A. In the second image, the stove is white, whereas in the first image, the oven is black.  ",
+      "B. In the second image, the oven is black, whereas in the first image, the stove is white.  ",
+      "C. In the second image, the oven is black, whereas in the first image, the oven is white.  ",
+      "D. In the second image, the stove is black, whereas in the first image, the oven is white."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/2340878.jpg",
+    "edited_image_name": "images/2340878_edit.jpg",
+    "type": "Counting",
+    "question": "What's the most notable variation between these two pictures?",
+    "options": [
+      "A. In the second image, the arrangement of the trains and carriages is different compared to the first image.  ",
+      "B. In the second image, the color of the trains and carriages is different compared to the first image.  ",
+      "C. In the second image, the number of trains and carriages is different compared to the first image.",
+      "D. In the second image, the size of the trains and carriages is different compared to the first image.  "
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/2340377.jpg",
+    "edited_image_name": "images/2340377_edit.jpg",
+    "type": "Attribute",
+    "question": "What's the key difference between these two pictures?",
+    "options": [
+      "A. In the second image, the stove has a black front panel and orange burners, whereas in the first image, the stove is described as completely black.",
+      "B. In the second image, the stove has an orange front panel and silver burners, whereas in the first image, the stove is simply a solid black color.",
+      "C. In the second image, the stove is bright red with black burners, whereas in the first image, the stove is described as totally dark.",
+      "D. In the second image, the stove has an orange front panel and black burners, whereas in the first image, the stove is described as very dark."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/2339246.jpg",
+    "edited_image_name": "images/2339246_edit.jpg",
+    "type": "Spatial Relation",
+    "question": "What is the main distinction between these two images?",
+    "options": [
+      "A. In the second image, the light fixture's position relative to the person and the countertop is different compared to its position in the first image.",
+      "B. In the second image, the light fixture's positioning is identical to the first image, but the countertop's position relative to the person has shifted slightly.",
+      "C. In the second image, the light fixture's position relative to the countertop is the same, but its position relative to the person has shifted compared to the first image.",
+      "D. In the second image, the light fixture's position relative to the person remains unchanged, but its position relative to the countertop is different compared to its position in the first image."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/2338804.jpg",
+    "edited_image_name": "images/2338804_edit.jpg",
+    "type": "Spatial Relation",
+    "question": "What is the primary difference between the two images?",
+    "options": [
+      "A. In the second image, the skier's position is in the center of the frame, whereas in the first image, the skier was positioned in the bottom right.  ",
+      "B. In the second image, the skier's position is in the bottom left of the frame, whereas in the first image, the skier was positioned in the center.  ",
+      "C. In the second image, the skier's position is slightly higher in the bottom left of the frame, whereas in the first image, the skier was closer to the center.  ",
+      "D. In the second image, the skier's position is in the center of the frame, whereas in the first image, the skier was positioned in the bottom left."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/2346516.jpg",
+    "edited_image_name": "images/2346516_edit.jpg",
+    "type": "Spatial Relation",
+    "question": "What's the most notable variation between these two pictures?",
+    "options": [
+      "A. In the second image, the child's position relative to the man has changed, but the direction the child is looking remains the same.",
+      "B. In the second image, the child's position relative to the man and the direction the man is looking have changed.",
+      "C. In the second image, the child's position relative to the man has not changed, but the direction the child is looking has changed.",
+      "D. In the second image, the child's position relative to the man and the direction the child is looking have changed."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/train_07857.jpg",
+    "edited_image_name": "images/train_07857_edited_split3.jpg",
+    "type": "Object",
+    "question": "How do these two images primarily differ from each other?",
+    "options": [
+      "A. The second image includes a small alien figure on the robot’s arm.",
+      "B. The background color of the mural shifts from yellow to blue.",
+      "C. The robot’s facial expression changes significantly between the two images.",
+      "D. The “X” symbol on the robot’s chest is replaced by a circle in the second image."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/184.jpg",
+    "edited_image_name": "images/184_edit.jpg",
+    "type": "Attribute",
+    "question": "What distinguishes one image from the other?",
+    "options": [
+      "A. In the second image, the sofa's color is gray, whereas in the first image, it was brown.",
+      "B. In the second image, the sofa's color is blue, whereas in the first image, it was black.",
+      "C. In the second image, the sofa's color is blue, whereas in the first image, it was brown.",
+      "D. In the second image, the sofa's color is green, whereas in the first image, it was brown."
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/test_00670.jpg",
+    "edited_image_name": "images/test_00670_edited.jpg",
+    "type": "Object",
+    "question": "What's the most notable variation between these two pictures?",
+    "options": [
+      "A. In the second image, a red cardinal bird sculpture is perched beside the sphere, whereas this is not mentioned in the first image.",
+      "B. In the second image, a red robin bird sculpture is perched atop the sphere, whereas this is not mentioned in the first image.",
+      "C. In the second image, a red cardinal bird sculpture is perched atop the sphere, whereas this is not mentioned in the first image.",
+      "D. In the second image, a red cardinal bird painting is featured atop the sphere, whereas this is not mentioned in the first image."
+    ],
+    "answer": "C"
+  },
+  {
+    "image_name": "images/2402682.jpg",
+    "edited_image_name": "images/2402682_edit.jpg",
+    "type": "Differentiation",
+    "question": "What's the most significant contrast between these two photos?",
+    "options": [
+      "A. In the second image, the vases contain light blue and white flowers with green stems but no leaves, whereas in the first image, the vases are filled with pink and white flowers.  ",
+      "B. In the second image, the vases contain light blue and white flowers with green stems and leaves, whereas in the first image, the vases are filled with pink and purple flowers.  ",
+      "C. In the second image, the vases contain light blue and pink flowers with green stems and leaves, whereas in the first image, the vases are filled with pink and white flowers.  ",
+      "D. In the second image, the vases contain light blue and white flowers with green stems and leaves, whereas in the first image, the vases are filled with pink and white flowers."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/train_06752.jpg",
+    "edited_image_name": "images/train_06752_edited_split3.jpg",
+    "type": "Object",
+    "question": "What's the most notable variation between these two pictures?",
+    "options": [
+      "A. In the second image, the flattened yellow car is still present, but the black metal spikes are missing, whereas both are present in the first image.",
+      "B. In the second image, the flattened yellow car is absent, but the black metal spikes remain, whereas both are present in the first image.",
+      "C. In the second image, neither the yellow car nor any flattened objects are visible, but the black metal spikes are present, whereas both are visible in the first image.",
+      "D. In the second image, the flattened yellow car and black metal spikes are absent, whereas they are present in the first image."
+    ],
+    "answer": "B"
+  },
+  {
+    "image_name": "images/test_01435.jpg",
+    "edited_image_name": "images/test_01435_edited.jpg",
+    "type": "Spatial Relation",
+    "question": "What is the primary difference between the two images?",
+    "options": [
+      "A. In the second image, the dog is facing forward, whereas in the first image, the dog is facing backward.",
+      "B. In the second image, the dog is lying down to face the right side, whereas in the first image, the dog is sitting up to face the left side.",
+      "C. In the second image, the dog is facing the left side, whereas in the first image, the dog is facing the right side.",
+      "D. In the second image, the dog is facing the right side, whereas in the first image, the dog is facing the left side."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/530.jpg",
+    "edited_image_name": "images/530_edit.jpg",
+    "type": "Attribute",
+    "question": "What is the main distinction between these two images?",
+    "options": [
+      "A. In the second image, the car's color is orange, whereas in the first image, the car's color was gray.  ",
+      "B. In the second image, the car's color is red, whereas in the first image, the car's color was gray.",
+      "C. In the second image, the car's color is red, whereas in the first image, the car's color was white.  ",
+      "D. In the second image, the car's color is red, whereas in the first image, the car's color was black.  "
+    ],
+    "answer": "B"
+  },
+  {
+    "image_name": "images/2375455.jpg",
+    "edited_image_name": "images/2375455_edit.jpg",
+    "type": "Action Relation",
+    "question": "What is the main distinction between these two images?",
+    "options": [
+      "A. The first image shows the player at the peak of her serve about to strike the ball, while the second captures her just after tossing the ball in preparation to serve.",
+      "B. The first image shows the player preparing to toss the ball, while the second shows her mid-swing during the serve.",
+      "C. The first image captures the follow-through after the serve, while the second shows the player waiting for a return shot.",
+      "D. Both images show the player in identical stages of the serve, just from different camera angles."
+    ],
+    "answer": "A"
+  },
+  {
+    "image_name": "images/test_00853.jpg",
+    "edited_image_name": "images/test_00853_edited.jpg",
+    "type": "Scene",
+    "question": "What's the most notable variation between these two pictures?",
+    "options": [
+      "A. In the second image, there is a large, oval-shaped window with a metallic frame above the chair, which is not present in the first image.",
+      "B. In the second image, there is a large, circular mirror with a metallic frame above the chair, which is not present in the first image.",
+      "C. In the second image, there is a large, circular window with a wooden frame above the chair, which is not present in the first image.",
+      "D. In the second image, there is a large, circular window with a metallic frame above the chair, which is not present in the first image."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/test_04133.jpg",
+    "edited_image_name": "images/test_04133_edited.jpg",
+    "type": "Scene",
+    "question": "What is the fundamental difference you can see between these two visuals?",
+    "options": [
+      "A. In the second image, there are two square, metallic-framed windows on the wall behind the sofa, which are not present in the first image.",
+      "B. In the second image, there are two round, metallic-framed windows on the wall behind the sofa, which are not present in the first image.",
+      "C. In the second image, there are two round, metallic-framed windows on the wall to the side of the sofa, which are not present in the first image.",
+      "D. In the second image, there are two round, metallic-framed mirrors on the wall behind the sofa, which are not present in the first image."
+    ],
+    "answer": "B"
+  },
+  {
+    "image_name": "images/1593246.jpg",
+    "edited_image_name": "images/1593246_edit.jpg",
+    "type": "Scene",
+    "question": "Can you identify the principal disparity between these two images?",
+    "options": [
+      "A. In the second image, the wall color is beige, whereas in the first image, the wall color is pink.",
+      "B. In the second image, the wall color is orange, whereas in the first image, the wall color is pink.",
+      "C. In the second image, the wall color is yellow, whereas in the first image, the wall color is red.",
+      "D. In the second image, the wall color is yellow, whereas in the first image, the wall color is pink."
+    ],
+    "answer": "D"
+  },
+  {
+    "image_name": "images/2410525.jpg",
+    "edited_image_name": "images/2410525_edit.jpg",
+    "type": "Scene",
+    "question": "What's the most significant contrast between these two photos?",
+    "options": [
+      "A. In the second image, the background consists of greenery with hills but no dead plants, whereas in the first image, the background includes a hill covered with greenery and dead plants.",
+      "B. In the second image, the background consists of greenery with no hills or dead plants, whereas in the first image, the background includes a hill covered with dead plants.",
+      "C. In the second image, the background consists of a hill covered with greenery and no plants at all, whereas in the first image, the background includes a hill filled with dead greenery.",
+      "D. In the second image, the background consists of greenery with small hills and no dead plants, whereas in the first image, the background includes a flatter area with dead plants."
+    ],
+    "answer": "B"
+  },
+  {
+    "image_name": "images/2363154.jpg",
+    "edited_image_name": "images/2363154_edit.jpg",
+    "type": "Scene",
+    "question": "What's the key difference between these two pictures?",
+    "options": [
+      "A. In the second image, the scene is a bustling street with a small building and a cloudy sky, whereas the first image depicts a sky with fluffy clouds.",
+      "B. In the second image, the scene is a bustling street with a large building and a clear blue sky, whereas the first image depicts a sky with fluffy clouds.",
+      "C. In the second image, the scene is a quiet park with a large building and a clear blue sky, whereas the first image depicts a sky with fluffy clouds.",
+      "D. In the second image, the scene is a bustling street with a large building and fluffy clouds, whereas the first image depicts a sky with clear blue sky."
+    ],
+    "answer": "B"
+  }
+]
